@@ -5,3 +5,7 @@
 #ignore virtual environment
 .ipynb_checkpoints/
 #ignore checkpoints
+
+
+.DS_Store
+#Ignore MAC system files
