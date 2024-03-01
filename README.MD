@@ -1,12 +1,15 @@
 # Projected Delivery Time Estimation
 
-This Python project uses Monte Carlo simulations to project and visualize delivery timings based on historical data.
+In this project, we are analyzing data exported from Jira. 
+The data is stored in a CSV file. 
+The idea is to import the data, convert certain columns to datetime format, calculate some statistics, and plot the distribution of data.
+Here are the specific steps and code snippets used in the project.
 
 ### Getting Started
 
 These instructions will help you set up and execute this project on your local machine.
 
-### Prerequisites
+### Dependencies
 
 This application requires the following Python packages:
 1. Pandas
