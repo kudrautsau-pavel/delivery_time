@@ -1,9 +1,13 @@
 # Projected Delivery Time Estimation
 
-In this project, we are analyzing data exported from Jira. 
-The data is stored in a CSV file. 
-The idea is to import the data, convert certain columns to datetime format, calculate some statistics, and plot the distribution of data.
-Here are the specific steps and code snippets used in the project.
+
+The Python script used in this project performs the following:
+Loads data from a CSV file.
+Converts relevant columns to datetime format.
+Calculates the delivery time in days.
+Filters rows where delivery time is zero.
+Removes rows from the dataset where delivery time is zero.
+Plots the distribution and calculates various statistics related to delivery time.
 
 ### Getting Started
 
@@ -29,9 +33,9 @@ The CSV file should contain 'Created' and 'Resolved' as column names, which refl
 
 ### Running the application
 
-To run this application, open the .ipynb file with Jupyter Notebook and run all cells.
-Modify any input parameters (like number of runs for Monte Carlo simulation) according to your needs.
-Please note that the path to the CSV file and the number of runs for the Monte Carlo simulation may need to be adjusted based on your specific requirements and resources.
+Setup
+Python 3.12.2 and the following packages are used: pandas, numpy, matplotlib and seaborn.
+Have your Jira exported data in a .csv file with separators (;) in the same directory where the script is run.
 
 ### Authors
 
