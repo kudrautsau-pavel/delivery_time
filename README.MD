@@ -29,7 +29,7 @@ Make sure all dependencies are installed by running this command in your termina
 
 This project reads data from a CSV file named Jira_exported_data.csv . 
 Ensure that you update the csv_file_path variable through the script with the correct path to your CSV file. 
-The CSV file should contain 'Created' and 'Resolved' as column names, which reflect dates in a format compatible with pandas to_datetime function.
+The CSV file should contain 'Created', Resolved', 'Issue key' as column names, which reflect dates in a format compatible with pandas to_datetime function.
 
 ### Running the application
 
