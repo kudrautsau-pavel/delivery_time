@@ -1,10 +1,9 @@
-/Jira_exported_data.csv
-#ignore sample dataset
-
-.venv/
-#ignore virtual environment
-.ipynb_checkpoints/
-#ignore checkpoints
-
+# Ignore macOS system files
 .DS_Store
-#Ignore MAC system files
+
+# Ignore PyCharm project files
+.idea/
+
+# Ignore Jupyter notebook checkpoints
+.pynb_checkpoints/
+
