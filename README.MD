@@ -16,10 +16,12 @@ These instructions will help you set up and execute this project on your local m
 ### Dependencies
 
 This application requires the following Python packages:
-1. Pandas
-2. Numpy
-3. Matplotlib
-4. Seaborn
+jupyter
+numpy
+pandas
+scipy
+matplotlib
+
 
 Make sure all dependencies are installed by running this command in your terminal:
 

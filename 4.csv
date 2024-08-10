@@ -1,0 +1,839 @@
+Issue Type,Summary,Status,Updated,Created,Priority,Issue key,Issue id,Parent id,Reporter,Assignee,Resolved,Time Spent
+Task,The Mines of Moria are breached,Done,2022-02-19 18:03:00,2022-02-19 10:05:00,Unspecified,LR-5136,340398,,Frodo Baggins,Gimli,2022-02-19 18:03:00,28800.0
+Bug,Gollum's betrayal leads to chaos,Done,2022-02-18 15:43:00,2022-02-18 15:32:00,Unspecified,LR-5467,340323,,Aragorn,Gandalf,2022-02-18 15:43:00,
+Code review,The fall of Sauron at Barad-dûr,Done,2022-02-19 14:24:00,2022-02-18 14:34:00,ASAP,LR-3329,340311,340101.0,Gandalf the Grey,Legolas,2022-02-19 14:24:00,10800.0
+Code review,Gandalf returns to Middle-Earth,Done,2022-02-18 15:18:00,2022-02-18 13:08:00,High,LR-7248,340253,340013.0,Boromir,Boromir,2022-02-18 14:02:00,2880.0
+Task,The fall of Sauron at Barad-dûr,Done,2022-02-18 17:40:00,2022-02-18 10:00:00,Unspecified,LR-9602,340153,,Gandalf the Grey,Samwise Gamgee,2022-02-18 17:40:00,28800.0
+Story,Eowyn defeats the Witch-king,Done,2022-02-19 09:26:00,2022-02-18 08:46:00,Unspecified,LR-7361,340217,,Boromir,Frodo Baggins,2022-02-19 09:26:00,16200.0
+Task,Gollum's betrayal leads to chaos,Done,2022-02-19 12:53:00,2022-02-17 18:03:00,Unspecified,LR-3443,340076,,Aragorn,Frodo Baggins,2022-02-19 12:53:00,12600.0
+Bug,The Mines of Moria are breached,Done,2022-02-19 14:57:00,2022-02-17 11:33:00,High,LR-4082,340013,,Frodo Baggins,Aragorn,2022-02-19 14:57:00,7200.0
+Code review,Gandalf returns to Middle-Earth,Done,2022-02-18 17:15:00,2022-02-16 20:50:00,Medium,LR-5916,339755,329568.0,Pippin Took,Saruman,2022-02-18 17:15:00,
+Story,Frodo and Sam reach Mount Doom,Done,2022-02-17 15:09:00,2022-02-14 14:39:00,High,LR-4814,339470,,Legolas,Gimli,2022-02-14 15:21:00,5400.0
+Code review,The fall of Sauron at Barad-dûr,Done,2022-02-18 15:18:00,2022-02-14 14:25:00,Medium,LR-7243,339464,339064.0,Boromir,Aragorn,2022-02-17 16:09:00,14400.0
+Task,Gandalf returns to Middle-Earth,Done,2022-02-17 15:09:00,2022-02-14 13:42:00,Unspecified,LR-5345,339454,,Frodo Baggins,Gimli,2022-02-17 09:27:00,5400.0
+Task,The Ents march on Isengard,Done,2022-02-17 15:09:00,2022-02-14 10:34:00,ASAP,LR-1854,339432,,Boromir,Samwise Gamgee,2022-02-14 15:30:00,27000.0
+Code review,Helm's Deep is under siege,Done,2022-02-18 15:18:00,2022-02-13 16:28:00,High,LR-7738,339341,339304.0,Frodo Baggins,Boromir,2022-02-17 15:16:00,15120.0
+Code review,The Mines of Moria are breached,Done,2022-02-14 08:19:00,2022-02-13 14:23:00,Unspecified,LR-4503,339247,298450.0,Pippin Took,Aragorn,2022-02-13 14:38:00,
+Research,Saruman's betrayal is revealed,Done,2022-02-17 15:09:00,2022-02-13 14:23:00,Unspecified,LR-4550,339246,,Frodo Baggins,Gimli,2022-02-14 09:01:00,14400.0
+Story,Frodo and Sam reach Mount Doom,Done,2022-02-18 15:18:00,2022-02-13 12:52:00,High,LR-6224,339304,,Frodo Baggins,Legolas,2022-02-17 15:34:00,21600.0
+Code review,The Mines of Moria are breached,Done,2022-02-17 15:09:00,2022-02-13 12:26:00,Medium,LR-7608,339213,333437.0,Samwise Gamgee,Boromir,2022-02-17 10:16:00,12600.0
+Code review,Gandalf returns to Middle-Earth,Done,2022-02-14 08:19:00,2022-02-13 12:24:00,ASAP,LR-3092,339212,337398.0,Samwise Gamgee,Gimli,2022-02-13 14:12:00,2520.0
+Sub-task,The battle of Pelennor Fields,Done,2022-02-14 08:19:00,2022-02-13 10:50:00,Unspecified,LR-7725,339068,337167.0,Gimli,Gimli,2022-02-13 11:53:00,1800.0
+Story,The fellowship forms in Rivendell,Done,2022-02-18 15:18:00,2022-02-13 10:36:00,Medium,LR-1140,339064,,Pippin Took,Frodo Baggins,2022-02-18 10:59:00,37800.0
+Story,Frodo and Sam reach Mount Doom,Done,2022-02-14 08:19:00,2022-02-13 09:44:00,High,LR-7897,339053,,Legolas,Aragorn,2022-02-13 09:46:00,24000.0
+Story,The fall of Sauron at Barad-dûr,Done,2022-02-14 12:59:00,2022-02-13 09:41:00,High,LR-9155,339052,,Gandalf the Grey,Saruman,2022-02-13 09:50:00,23400.0
+Code review,The fellowship forms in Rivendell,Done,2022-02-18 15:17:00,2022-02-12 20:36:00,Medium,LR-1419,338962,272467.0,Pippin Took,Gandalf,2022-02-18 04:10:00,47280.0
+Code review,Saruman's betrayal is revealed,Done,2022-02-18 15:17:00,2022-02-12 18:58:00,Unspecified,LR-6289,339010,333440.0,Gimli,Aragorn,2022-02-17 17:36:00,13200.0
+Code review,The Shire is restored to peace,Done,2022-02-14 08:19:00,2022-02-12 17:18:00,ASAP,LR-4830,339002,338044.0,Samwise Gamgee,Gandalf,2022-02-13 10:42:00,5400.0
+Sub-task,The fellowship forms in Rivendell,Done,2022-02-18 17:15:00,2022-02-12 14:12:00,Medium,LR-9885,338760,329568.0,Pippin Took,Samwise Gamgee,2022-02-18 17:15:00,28800.0
+Task,The Ents march on Isengard,Done,2022-02-18 15:18:00,2022-02-11 16:09:00,Unspecified,LR-8507,338507,,Boromir,Frodo Baggins,2022-02-17 17:07:00,28800.0
+Code review,Frodo and Sam reach Mount Doom,Done,2022-02-18 15:18:00,2022-02-11 15:50:00,High,LR-1786,338468,338170.0,Frodo Baggins,Gimli,2022-02-18 12:29:00,17400.0
+Sub-task,The fellowship forms in Rivendell,Done,2022-02-17 15:09:00,2022-02-11 15:22:00,ASAP,LR-5120,338463,331993.0,Gimli,Samwise Gamgee,2022-02-17 11:55:00,28800.0
+Code review,Eowyn defeats the Witch-king,Done,2022-02-13 09:54:00,2022-02-11 11:49:00,ASAP,LR-2025,338352,338407.0,Frodo Baggins,Legolas,2022-02-11 12:10:00,1200.0
+Bug,Frodo and Sam reach Mount Doom,Done,2022-02-12 09:45:00,2022-02-11 09:58:00,ASAP,LR-8955,338407,,Frodo Baggins,Gimli,2022-02-11 12:15:00,1800.0
+Task,The Paths of the Dead are taken,Done,2022-02-12 09:45:00,2022-02-11 09:52:00,Unspecified,LR-2045,338333,,Aragorn,Frodo Baggins,2022-02-11 16:30:00,28800.0
+Story,Saruman's betrayal is revealed,Done,2022-02-19 14:15:00,2022-02-10 23:07:00,High,LR-6239,338170,,Frodo Baggins,Frodo Baggins,2022-02-19 14:15:00,28800.0
+Story,Gollum's betrayal leads to chaos,Done,2022-02-12 09:45:00,2022-02-10 21:37:00,High,LR-9467,338166,,Samwise Gamgee,Legolas,2022-02-10 21:44:00,18000.0
+Code review,The Mines of Moria are breached,Done,2022-02-14 08:19:00,2022-02-10 21:20:00,ASAP,LR-1071,338164,338044.0,Aragorn,Boromir,2022-02-12 17:18:00,3600.0
+Story,The Shire is restored to peace,Done,2022-02-18 15:59:00,2022-02-10 19:36:00,ASAP,LR-3528,338161,,Legolas,Saruman,2022-02-18 15:16:00,1800.0
+Code review,The battle of Pelennor Fields,Done,2022-02-12 09:45:00,2022-02-10 13:27:00,High,LR-9106,338105,336030.0,Frodo Baggins,Gimli,2022-02-10 22:36:00,8100.0
+Task,The battle of Pelennor Fields,Done,2022-02-14 14:06:00,2022-02-10 13:13:00,ASAP,LR-4065,338044,,Gandalf the Grey,Legolas,2022-02-13 16:57:00,30600.0
+Task,The fall of Sauron at Barad-dûr,Done,2022-02-12 09:45:00,2022-02-10 07:59:00,Unspecified,LR-8528,337939,,Gimli,Gimli,2022-02-10 15:54:00,28800.0
+Sub-task,Gollum's betrayal leads to chaos,Done,2022-02-07 19:26:00,2022-02-07 17:57:00,ASAP,LR-7249,337818,331993.0,Aragorn,Aragorn,2022-02-07 17:57:00,21600.0
+Sub-task,The Mines of Moria are breached,Done,2022-02-07 19:26:00,2022-02-07 17:52:00,ASAP,LR-9454,337816,331993.0,Samwise Gamgee,Gandalf,2022-02-07 17:52:00,7200.0
+Code review,The fellowship forms in Rivendell,Done,2022-02-07 19:26:00,2022-02-07 15:18:00,Unspecified,LR-5481,337702,337370.0,Aragorn,Frodo Baggins,2022-02-07 16:06:00,1800.0
+Bug,Eowyn defeats the Witch-king,Done,2022-02-18 15:18:00,2022-02-07 13:12:00,ASAP,LR-5060,337398,,Frodo Baggins,Saruman,2022-02-18 10:11:00,1800.0
+Code review,Frodo and Sam reach Mount Doom,Done,2022-02-12 09:45:00,2022-02-07 12:26:00,High,LR-1702,337393,337447.0,Aragorn,Legolas,2022-02-11 16:49:00,8520.0
+Story,The Shire is restored to peace,Done,2022-02-17 15:09:00,2022-02-07 10:33:00,High,LR-9581,337447,,Frodo Baggins,Aragorn,2022-02-17 11:55:00,14040.0
+Research,The Mines of Moria are breached,Done,2022-02-18 15:18:00,2022-02-07 09:30:00,Unspecified,LR-5122,337370,,Aragorn,Gimli,2022-02-18 13:13:00,28440.0
+Task,The One Ring has been found,Done,2022-02-07 19:26:00,2022-02-07 08:56:00,Unspecified,LR-2918,337434,,Boromir,Legolas,2022-02-07 18:56:00,28800.0
+Code review,Aragorn claims the throne of Gondor,Done,2022-02-10 10:49:00,2022-02-06 14:34:00,High,LR-1377,337321,323360.0,Frodo Baggins,Frodo Baggins,2022-02-07 10:22:00,10800.0
+Task,Eowyn defeats the Witch-king,Done,2022-02-14 08:19:00,2022-02-06 13:32:00,ASAP,LR-3118,337266,,Gandalf the Grey,Gimli,2022-02-13 15:36:00,76320.0
+Code review,Frodo and Sam reach Mount Doom,Done,2022-02-07 19:26:00,2022-02-06 10:16:00,High,LR-2607,337242,334628.0,Aragorn,Gimli,2022-02-07 11:07:00,16200.0
+Task,The Mines of Moria are breached,Done,2022-02-07 19:26:00,2022-02-06 09:27:00,High,LR-7341,337232,,Gimli,Gandalf,2022-02-07 15:26:00,16800.0
+Task,The Mines of Moria are breached,Done,2022-02-07 19:26:00,2022-02-06 08:59:00,Medium,LR-9969,337225,,Gimli,Gandalf,2022-02-06 18:29:00,28800.0
+Story,Helm's Deep is under siege,Done,2022-02-14 08:19:00,2022-02-06 00:05:00,High,LR-8230,337167,,Aragorn,Samwise Gamgee,2022-02-13 13:58:00,7200.0
+Code review,Gandalf returns to Middle-Earth,Done,2022-02-07 19:26:00,2022-02-05 17:17:00,ASAP,LR-2894,337150,312880.0,Gandalf the Grey,Frodo Baggins,2022-02-06 12:12:00,5400.0
+Code review,Eowyn defeats the Witch-king,Done,2022-02-05 17:17:00,2022-02-05 16:52:00,High,LR-1543,337132,300478.0,Gimli,Samwise Gamgee,2022-02-05 17:13:00,900.0
+Code review,The fellowship forms in Rivendell,Done,2022-02-05 19:00:00,2022-02-05 15:08:00,Medium,LR-9309,337119,336968.0,Samwise Gamgee,Gandalf,2022-02-05 17:17:00,4500.0
+Sub-task,Eowyn defeats the Witch-king,Done,2022-02-12 09:45:00,2022-02-05 14:34:00,Unspecified,LR-3639,337115,330329.0,Gandalf the Grey,Samwise Gamgee,2022-02-11 10:09:00,28800.0
+Code review,The Mines of Moria are breached,Done,2022-02-07 19:26:00,2022-02-05 12:26:00,High,LR-5803,337101,320323.0,Boromir,Aragorn,2022-02-06 16:51:00,7200.0
+Code review,The fellowship forms in Rivendell,Done,2022-02-12 09:45:00,2022-02-05 11:49:00,High,LR-2015,336977,333236.0,Gandalf the Grey,Samwise Gamgee,2022-02-10 17:37:00,16200.0
+Story,The battle of Pelennor Fields,Done,2022-02-12 09:45:00,2022-02-05 10:44:00,Medium,LR-1440,336968,,Samwise Gamgee,Gimli,2022-02-12 09:45:00,9720.0
+Task,The Shire is restored to peace,Done,2022-02-05 17:17:00,2022-02-05 08:52:00,Unspecified,LR-6514,336880,,Boromir,Saruman,2022-02-05 16:46:00,28800.0
+Sub-task,The fellowship forms in Rivendell,Done,2022-02-05 17:17:00,2022-02-04 14:53:00,Unspecified,LR-4666,336733,330329.0,Samwise Gamgee,Legolas,2022-02-05 14:33:00,7200.0
+Sub-task,Gollum's betrayal leads to chaos,Done,2022-02-07 19:26:00,2022-02-04 14:48:00,ASAP,LR-5199,336825,331993.0,Frodo Baggins,Gimli,2022-02-07 17:58:00,86400.0
+Sub-task,The Shire is restored to peace,Done,2022-02-05 14:33:00,2022-02-04 14:47:00,ASAP,LR-3487,336824,331993.0,Legolas,Gandalf,2022-02-04 14:49:00,21600.0
+Task,The One Ring has been found,Done,2022-02-04 18:56:00,2022-02-04 14:27:00,High,LR-6060,336731,,Boromir,Legolas,2022-02-04 17:56:00,19800.0
+Task,Eowyn defeats the Witch-king,Done,2022-02-10 21:38:00,2022-02-04 12:48:00,High,LR-5614,336720,,Gimli,Aragorn,2022-02-07 10:38:00,1800.0
+Sub-task,The Paths of the Dead are taken,Done,2022-02-05 17:17:00,2022-02-04 10:26:00,Unspecified,LR-7487,336702,329470.0,Frodo Baggins,Boromir,2022-02-05 16:25:00,3600.0
+Task,The fall of Sauron at Barad-dûr,Done,2022-02-10 21:40:00,2022-02-04 09:53:00,High,LR-8046,336665,,Legolas,Samwise Gamgee,2022-02-05 16:57:00,19200.0
+Task,The Mines of Moria are breached,Done,2022-02-05 17:17:00,2022-02-04 09:53:00,High,LR-4630,336664,,Aragorn,Samwise Gamgee,2022-02-05 16:50:00,18000.0
+Research,The One Ring has been found,Done,2022-02-04 18:56:00,2022-02-04 09:45:00,Unspecified,LR-5709,336597,,Frodo Baggins,Saruman,2022-02-04 14:28:00,7200.0
+Task,Gandalf returns to Middle-Earth,Done,2022-02-04 18:56:00,2022-02-04 09:20:00,Unspecified,LR-5727,336591,,Pippin Took,Gimli,2022-02-04 16:50:00,28800.0
+Research,Frodo and Sam reach Mount Doom,Done,2022-02-04 18:56:00,2022-02-04 08:56:00,High,LR-3210,336661,,Pippin Took,Gimli,2022-02-04 09:03:00,18000.0
+Code review,Saruman's betrayal is revealed,Done,2022-02-05 13:41:00,2022-02-03 18:16:00,URGENT,LR-3020,336475,335604.0,Boromir,Legolas,2022-02-04 13:43:00,7200.0
+Sub-task,The Shire is restored to peace,Done,2022-02-04 18:56:00,2022-02-03 13:41:00,ASAP,LR-4768,336516,331993.0,Frodo Baggins,Gimli,2022-02-03 23:40:00,21600.0
+Code review,The Shire is restored to peace,Done,2022-02-07 19:26:00,2022-02-03 13:35:00,High,LR-6523,336514,336198.0,Boromir,Samwise Gamgee,2022-02-05 22:30:00,19800.0
+Task,The Ents march on Isengard,Done,2022-02-07 19:26:00,2022-02-03 11:29:00,High,LR-1804,336198,,Frodo Baggins,Frodo Baggins,2022-02-06 10:09:00,7920.0
+Sub-task,The Ents march on Isengard,Done,2022-02-03 15:05:00,2022-02-03 10:16:00,ASAP,LR-3398,336183,331993.0,Aragorn,Samwise Gamgee,2022-02-03 13:40:00,7200.0
+Task,The battle of Pelennor Fields,Done,2022-02-04 18:56:00,2022-02-03 08:51:00,Unspecified,LR-3305,336357,,Samwise Gamgee,Boromir,2022-02-03 16:34:00,28800.0
+Code review,The Mines of Moria are breached,Done,2022-02-03 15:05:00,2022-02-02 00:38:00,High,LR-2243,335998,333764.0,Aragorn,Frodo Baggins,2022-02-03 13:44:00,5400.0
+Sub-task,The Paths of the Dead are taken,Done,2022-02-12 13:28:00,2022-01-31 23:07:00,Unspecified,LR-1207,335955,331042.0,Pippin Took,Gandalf,2022-02-10 14:20:00,10800.0
+Sub-task,Helm's Deep is under siege,Done,2022-02-12 09:45:00,2022-01-31 23:07:00,Unspecified,LR-2522,335954,331042.0,Frodo Baggins,Gandalf,2022-02-10 21:35:00,12600.0
+Story,The fall of Sauron at Barad-dûr,Done,2022-02-17 15:09:00,2022-01-31 20:32:00,High,LR-3073,336030,,Gandalf the Grey,Aragorn,2022-02-17 11:54:00,15120.0
+Code review,Gandalf returns to Middle-Earth,Done,2022-02-03 15:05:00,2022-01-31 13:41:00,URGENT,LR-3324,335915,334759.0,Samwise Gamgee,Gimli,2022-01-31 16:38:00,16200.0
+Code review,The fall of Sauron at Barad-dûr,Done,2022-02-03 15:05:00,2022-01-31 13:38:00,High,LR-1300,335893,330212.0,Frodo Baggins,Saruman,2022-02-03 10:41:00,2520.0
+Task,Aragorn claims the throne of Gondor,Done,2022-02-12 09:45:00,2022-01-31 11:41:00,ASAP,LR-1972,335879,,Legolas,Samwise Gamgee,2022-02-12 09:45:00,48000.0
+Story,Gandalf returns to Middle-Earth,Done,2022-02-07 19:26:00,2022-01-31 10:42:00,High,LR-2245,335787,,Gandalf the Grey,Gimli,2022-02-06 17:24:00,70200.0
+Sub-task,Saruman's betrayal is revealed,Done,2022-02-14 08:19:00,2022-01-31 10:39:00,Medium,LR-1057,335786,331050.0,Legolas,Aragorn,2022-02-12 10:46:00,1800.0
+Sub-task,Eowyn defeats the Witch-king,Done,2022-02-03 15:05:00,2022-01-31 10:38:00,Medium,LR-1126,335784,331050.0,Gimli,Frodo Baggins,2022-02-03 12:16:00,1800.0
+Task,The battle of Pelennor Fields,Done,2022-02-03 15:05:00,2022-01-31 08:36:00,Unspecified,LR-2637,335852,,Frodo Baggins,Boromir,2022-01-31 16:29:00,28800.0
+Code review,Helm's Deep is under siege,Done,2022-02-04 18:56:00,2022-01-30 17:52:00,High,LR-5126,335721,334717.0,Aragorn,Frodo Baggins,2022-02-03 16:39:00,12600.0
+Code review,Eowyn defeats the Witch-king,Done,2022-02-03 15:05:00,2022-01-30 16:56:00,URGENT,LR-9551,335817,335604.0,Samwise Gamgee,Boromir,2022-01-31 14:17:00,5400.0
+Story,The Paths of the Dead are taken,Done,2022-01-30 17:04:00,2022-01-30 11:29:00,High,LR-2649,335619,,Aragorn,Gandalf,2022-01-30 13:48:00,
+Task,The Shire is restored to peace,Done,2022-01-30 17:04:00,2022-01-30 08:39:00,Unspecified,LR-4458,335521,,Gandalf the Grey,Samwise Gamgee,2022-01-30 17:00:00,28800.0
+Research,Gandalf returns to Middle-Earth,Done,2022-02-04 10:40:00,2022-01-30 08:37:00,Unspecified,LR-6685,335520,,Frodo Baggins,Boromir,2022-01-30 10:05:00,7200.0
+Story,Gandalf returns to Middle-Earth,Done,2022-02-06 08:58:00,2022-01-29 16:49:00,High,LR-5470,335435,,Gandalf the Grey,Legolas,2022-02-05 17:17:00,31200.0
+Story,Aragorn claims the throne of Gondor,Done,2022-02-07 19:26:00,2022-01-29 14:07:00,High,LR-3328,335408,,Gimli,Gimli,2022-02-06 09:07:00,10800.0
+Story,The battle of Pelennor Fields,Done,2022-02-10 08:40:00,2022-01-29 14:06:00,High,LR-4123,335406,,Frodo Baggins,Saruman,2022-02-06 09:11:00,9000.0
+Story,Gandalf returns to Middle-Earth,Done,2022-02-12 09:45:00,2022-01-29 13:58:00,High,LR-1284,335400,,Boromir,Saruman,2022-02-10 21:24:00,8100.0
+Sub-task,The battle of Pelennor Fields,Done,2022-02-03 15:05:00,2022-01-29 13:17:00,ASAP,LR-5444,335287,331993.0,Gandalf the Grey,Gandalf,2022-01-31 16:38:00,57600.0
+Sub-task,Aragorn claims the throne of Gondor,Done,2022-01-30 17:03:00,2022-01-29 13:15:00,Unspecified,LR-6150,335286,331993.0,Gimli,Boromir,2022-01-29 13:15:00,
+Sub-task,The fall of Sauron at Barad-dûr,Done,2022-01-30 17:03:00,2022-01-29 13:14:00,Unspecified,LR-4780,335285,331993.0,Pippin Took,Samwise Gamgee,2022-01-29 13:14:00,
+Story,Saruman's betrayal is revealed,Done,2022-01-30 17:04:00,2022-01-29 12:43:00,High,LR-5046,335332,,Pippin Took,Gimli,2022-01-29 16:36:00,14400.0
+Code review,Saruman's betrayal is revealed,Done,2022-01-30 17:03:00,2022-01-29 11:36:00,High,LR-6662,335304,329258.0,Frodo Baggins,Samwise Gamgee,2022-01-29 14:22:00,6900.0
+Task,The battle of Pelennor Fields,Done,2022-01-30 17:04:00,2022-01-29 08:45:00,Unspecified,LR-1431,335248,,Frodo Baggins,Frodo Baggins,2022-01-29 16:39:00,28800.0
+Task,Gollum's betrayal leads to chaos,Done,2022-02-03 15:05:00,2022-01-28 17:46:00,High,LR-1230,335154,,Boromir,Aragorn,2022-01-31 10:04:00,32400.0
+Code review,The Ents march on Isengard,Done,2022-01-30 17:04:00,2022-01-28 16:14:00,ASAP,LR-1542,335142,334733.0,Boromir,Legolas,2022-01-29 11:35:00,11520.0
+Code review,Saruman's betrayal is revealed,Done,2022-01-30 17:04:00,2022-01-28 14:30:00,High,LR-6933,335098,333500.0,Samwise Gamgee,Aragorn,2022-01-29 15:13:00,7200.0
+Code review,Gandalf returns to Middle-Earth,Done,2022-01-30 17:04:00,2022-01-28 12:30:00,High,LR-6326,335104,334944.0,Frodo Baggins,Gimli,2022-01-28 16:22:00,12600.0
+Story,The fellowship forms in Rivendell,Done,2022-02-03 15:05:00,2022-01-28 12:13:00,ASAP,LR-5507,335100,,Gimli,Samwise Gamgee,2022-02-03 15:05:00,14400.0
+Code review,Gollum's betrayal leads to chaos,Done,2022-01-30 17:03:00,2022-01-28 11:29:00,ASAP,LR-5817,334982,331519.0,Boromir,Frodo Baggins,2022-01-28 15:29:00,7200.0
+Story,Helm's Deep is under siege,Done,2022-01-30 17:04:00,2022-01-28 10:00:00,High,LR-3014,334944,,Legolas,Legolas,2022-01-28 18:14:00,9720.0
+Sub-task,The battle of Pelennor Fields,Done,2022-02-04 18:56:00,2022-01-28 09:54:00,Unspecified,LR-2458,334943,330329.0,Gandalf the Grey,Legolas,2022-02-04 14:51:00,86400.0
+Task,The Paths of the Dead are taken,Done,2022-01-30 17:04:00,2022-01-28 08:33:00,Unspecified,LR-4970,335028,,Frodo Baggins,Samwise Gamgee,2022-01-28 16:45:00,28800.0
+Story,The battle of Pelennor Fields,Done,2022-02-03 15:05:00,2022-01-27 17:45:00,ASAP,LR-9564,334901,,Samwise Gamgee,Aragorn,2022-02-03 15:05:00,21600.0
+Task,Gollum's betrayal leads to chaos,Done,2022-02-10 09:39:00,2022-01-27 16:35:00,URGENT,LR-4764,334759,,Legolas,Gimli,2022-02-10 09:37:00,30600.0
+Story,Frodo and Sam reach Mount Doom,Done,2022-02-10 09:39:00,2022-01-27 15:37:00,ASAP,LR-6787,334733,,Legolas,Boromir,2022-02-10 09:38:00,20520.0
+Task,The fellowship forms in Rivendell,Done,2022-02-10 09:39:00,2022-01-27 13:24:00,High,LR-3249,334717,,Gimli,Aragorn,2022-02-10 09:38:00,30960.0
+Code review,Eowyn defeats the Witch-king,Done,2022-01-30 17:03:00,2022-01-27 12:11:00,High,LR-2488,334571,326526.0,Pippin Took,Frodo Baggins,2022-01-27 16:32:00,10500.0
+Code review,The Paths of the Dead are taken,Done,2022-01-30 17:03:00,2022-01-27 11:52:00,High,LR-6967,334649,309169.0,Pippin Took,Saruman,2022-01-27 13:41:00,7200.0
+Research,The battle of Pelennor Fields,Done,2022-02-10 09:39:00,2022-01-27 09:18:00,High,LR-4238,334628,,Boromir,Samwise Gamgee,2022-02-10 08:30:00,20100.0
+Task,Saruman's betrayal is revealed,Done,2022-01-30 17:04:00,2022-01-27 08:58:00,Medium,LR-9965,334627,,Gandalf the Grey,Boromir,2022-01-27 16:37:00,28800.0
+Code review,The Shire is restored to peace,Done,2022-01-30 17:04:00,2022-01-26 00:48:00,ASAP,LR-7534,334103,334102.0,Gimli,Aragorn,2022-01-28 15:25:00,3600.0
+Story,The fellowship forms in Rivendell,Done,2022-02-10 09:15:00,2022-01-26 00:47:00,ASAP,LR-6962,334102,,Boromir,Gimli,2022-02-05 17:17:00,21600.0
+Code review,Frodo and Sam reach Mount Doom,Done,2022-01-30 17:03:00,2022-01-24 17:32:00,High,LR-6634,333875,324815.0,Gandalf the Grey,Samwise Gamgee,2022-01-27 15:25:00,9000.0
+Sub-task,The One Ring has been found,Done,2022-01-30 17:03:00,2022-01-24 13:22:00,High,LR-3005,333779,329582.0,Samwise Gamgee,Aragorn,2022-01-29 08:59:00,25200.0
+Story,The One Ring has been found,Done,2022-02-10 09:39:00,2022-01-24 12:45:00,High,LR-5122,333764,,Samwise Gamgee,Aragorn,2022-02-10 09:38:00,21600.0
+Research,The Mines of Moria are breached,Done,2022-01-27 11:33:00,2022-01-24 09:02:00,Medium,LR-7841,333694,,Legolas,Aragorn,2022-01-27 09:15:00,18000.0
+Task,The fellowship forms in Rivendell,Done,2022-01-27 11:33:00,2022-01-24 08:38:00,Medium,LR-9533,333690,,Gimli,Frodo Baggins,2022-01-24 16:48:00,28800.0
+Task,Frodo and Sam reach Mount Doom,Done,2022-01-24 13:49:00,2022-01-23 16:16:00,Medium,LR-4062,333571,,Pippin Took,Legolas,2022-01-23 17:24:00,3960.0
+Task,The Shire is restored to peace,Done,2022-01-24 13:49:00,2022-01-23 13:36:00,Medium,LR-7502,333518,,Samwise Gamgee,Gimli,2022-01-23 16:15:00,7200.0
+Code review,The Paths of the Dead are taken,Done,2022-01-24 13:49:00,2022-01-23 12:49:00,High,LR-2590,333507,333488.0,Pippin Took,Saruman,2022-01-23 14:29:00,3600.0
+Task,Frodo and Sam reach Mount Doom,Done,2022-01-30 17:04:00,2022-01-23 12:37:00,High,LR-4117,333500,,Gandalf the Grey,Boromir,2022-01-29 16:10:00,22800.0
+Code review,The fall of Sauron at Barad-dûr,Done,2022-01-24 13:48:00,2022-01-23 12:34:00,ASAP,LR-5979,333497,331868.0,Legolas,Gimli,2022-01-24 10:01:00,7200.0
+Story,The Shire is restored to peace,Done,2022-01-24 13:48:00,2022-01-23 12:11:00,High,LR-2362,333488,,Boromir,Samwise Gamgee,2022-01-23 22:58:00,9000.0
+Code review,Gandalf returns to Middle-Earth,Done,2022-01-24 13:48:00,2022-01-23 11:11:00,ASAP,LR-2071,333467,316809.0,Gandalf the Grey,Legolas,2022-01-23 15:26:00,7200.0
+Task,Gandalf returns to Middle-Earth,Done,2022-02-06 09:28:00,2022-01-23 10:39:00,Medium,LR-8339,333455,,Aragorn,Saruman,2022-01-30 16:07:00,19200.0
+Story,The Ents march on Isengard,Done,2022-02-18 15:17:00,2022-01-23 09:39:00,Medium,LR-4694,333440,,Gimli,Boromir,2022-02-18 11:00:00,46800.0
+Story,Frodo and Sam reach Mount Doom,Done,2022-02-18 15:17:00,2022-01-23 09:33:00,Medium,LR-8411,333437,,Gimli,Saruman,2022-02-17 15:19:00,10800.0
+Task,Gollum's betrayal leads to chaos,Done,2022-01-23 13:39:00,2022-01-23 08:30:00,Medium,LR-6372,333421,,Boromir,Gimli,2022-01-23 13:39:00,18000.0
+Task,Aragorn claims the throne of Gondor,Done,2022-01-23 08:36:00,2022-01-22 14:14:00,Medium,LR-7712,333311,,Legolas,Boromir,2022-01-22 19:04:00,10800.0
+Code review,The Paths of the Dead are taken,Done,2022-01-24 13:48:00,2022-01-22 14:13:00,High,LR-1999,333310,330675.0,Samwise Gamgee,Frodo Baggins,2022-01-23 00:59:00,6000.0
+Sub-task,The battle of Pelennor Fields,Done,2022-01-30 17:03:00,2022-01-22 13:09:00,URGENT,LR-9983,333281,330329.0,Samwise Gamgee,Gimli,2022-01-28 09:52:00,45300.0
+Code review,Saruman's betrayal is revealed,Done,2022-01-24 13:48:00,2022-01-22 11:58:00,High,LR-9191,333262,332324.0,Frodo Baggins,Samwise Gamgee,2022-01-22 15:59:00,7200.0
+Task,The Shire is restored to peace,Done,2022-01-22 15:40:00,2022-01-22 08:40:00,Medium,LR-3279,333208,,Gimli,Boromir,2022-01-22 14:17:00,18000.0
+Code review,The One Ring has been found,Done,2022-01-27 11:33:00,2022-01-22 00:06:00,ASAP,LR-6837,333168,332296.0,Frodo Baggins,Legolas,2022-01-24 17:03:00,12600.0
+Code review,The Ents march on Isengard,Done,2022-01-22 15:40:00,2022-01-21 17:30:00,High,LR-9320,333126,332925.0,Gandalf the Grey,Boromir,2022-01-22 10:59:00,9000.0
+Sub-task,The One Ring has been found,Done,2022-01-22 15:40:00,2022-01-21 15:24:00,Unspecified,LR-8114,333095,330329.0,Boromir,Saruman,2022-01-21 15:26:00,28200.0
+Code review,Saruman's betrayal is revealed,Done,2022-01-22 15:40:00,2022-01-21 12:26:00,High,LR-6856,332993,331071.0,Gandalf the Grey,Frodo Baggins,2022-01-21 16:34:00,5400.0
+Task,The fall of Sauron at Barad-dûr,Done,2022-01-22 15:40:00,2022-01-21 10:40:00,Medium,LR-5142,332934,,Boromir,Samwise Gamgee,2022-01-21 20:06:00,28800.0
+Task,Eowyn defeats the Witch-king,Done,2022-01-30 17:03:00,2022-01-21 01:20:00,ASAP,LR-7928,332838,,Boromir,Frodo Baggins,2022-01-28 17:44:00,30600.0
+Code review,Gandalf returns to Middle-Earth,Done,2022-01-22 15:40:00,2022-01-20 16:28:00,High,LR-3110,332782,330401.0,Frodo Baggins,Saruman,2022-01-21 14:53:00,7200.0
+Code review,The Shire is restored to peace,Done,2022-01-22 15:39:00,2022-01-20 16:03:00,Medium,LR-6586,332770,326005.0,Pippin Took,Legolas,2022-01-21 12:28:00,1800.0
+Sub-task,Frodo and Sam reach Mount Doom,Done,2022-02-14 08:19:00,2022-01-20 11:40:00,Unspecified,LR-7394,332648,286754.0,Boromir,Legolas,2022-02-13 10:09:00,27000.0
+Sub-task,The battle of Pelennor Fields,Done,2022-02-14 08:19:00,2022-01-20 11:39:00,Unspecified,LR-3536,332646,286754.0,Frodo Baggins,Boromir,2022-02-12 09:55:00,23400.0
+Sub-task,Frodo and Sam reach Mount Doom,Done,2022-02-12 09:45:00,2022-01-20 11:37:00,Unspecified,LR-5534,332645,286754.0,Gandalf the Grey,Gimli,2022-02-11 10:23:00,34200.0
+Sub-task,Saruman's betrayal is revealed,Done,2022-01-30 17:03:00,2022-01-20 11:34:00,Unspecified,LR-9103,332642,286754.0,Pippin Took,Legolas,2022-01-30 14:16:00,19800.0
+Code review,Eowyn defeats the Witch-king,Done,2022-01-21 12:11:00,2022-01-20 09:33:00,URGENT,LR-2679,332592,331488.0,Pippin Took,Boromir,2022-01-20 15:16:00,5400.0
+Research,Eowyn defeats the Witch-king,Done,2022-01-21 12:11:00,2022-01-20 07:33:00,Medium,LR-6049,332567,,Samwise Gamgee,Aragorn,2022-01-20 07:36:00,18000.0
+Code review,The Paths of the Dead are taken,Done,2022-01-21 12:11:00,2022-01-17 17:32:00,ASAP,LR-4268,332389,331515.0,Aragorn,Aragorn,2022-01-20 12:43:00,5400.0
+Task,The fellowship forms in Rivendell,Done,2022-01-21 12:11:00,2022-01-17 10:58:00,ASAP,LR-1373,332295,,Legolas,Frodo Baggins,2022-01-17 16:17:00,
+Story,Helm's Deep is under siege,Done,2022-02-03 15:05:00,2022-01-17 10:58:00,ASAP,LR-8235,332296,,Gimli,Gimli,2022-02-03 15:04:00,36000.0
+Story,Helm's Deep is under siege,Done,2022-01-27 11:33:00,2022-01-17 13:34:00,High,LR-5274,332328,,Gandalf the Grey,Frodo Baggins,2022-01-27 09:59:00,12600.0
+Story,The Shire is restored to peace,Done,2022-01-21 12:11:00,2022-01-17 09:42:00,Medium,LR-1014,332255,,Frodo Baggins,Frodo Baggins,2022-01-17 09:44:00,5400.0
+Story,The battle of Pelennor Fields,Done,2022-01-27 11:33:00,2022-01-16 10:14:00,ASAP,LR-9325,331986,,Frodo Baggins,Boromir,2022-01-27 11:33:00,5400.0
+Code review,Helm's Deep is under siege,Done,2022-01-21 12:11:00,2022-01-15 17:29:00,High,LR-2341,331894,331495.0,Gimli,Aragorn,2022-01-16 10:17:00,7200.0
+Code review,Frodo and Sam reach Mount Doom,Done,2022-01-24 13:48:00,2022-01-15 15:58:00,High,LR-5423,331869,285040.0,Gimli,Saruman,2022-01-23 14:01:00,31800.0
+Story,Gandalf returns to Middle-Earth,Done,2022-01-30 17:03:00,2022-01-15 15:57:00,ASAP,LR-3088,331868,,Frodo Baggins,Gimli,2022-01-27 16:33:00,7920.0
+Code review,The battle of Pelennor Fields,Done,2022-01-21 12:11:00,2022-01-15 14:10:00,High,LR-4024,331824,285599.0,Pippin Took,Boromir,2022-01-16 16:24:00,2700.0
+Story,The Shire is restored to peace,Done,2022-01-21 12:11:00,2022-01-15 11:21:00,High,LR-3439,331744,,Aragorn,Frodo Baggins,2022-01-17 15:51:00,
+Story,Eowyn defeats the Witch-king,Done,2022-01-21 12:11:00,2022-01-15 11:19:00,High,LR-8778,331743,,Samwise Gamgee,Legolas,2022-01-17 15:50:00,
+Story,Saruman's betrayal is revealed,Done,2022-01-30 17:03:00,2022-01-15 11:17:00,High,LR-5411,331742,,Legolas,Saruman,2022-01-30 17:03:00,7200.0
+Code review,The Shire is restored to peace,Done,2022-01-21 12:11:00,2022-01-15 11:06:00,URGENT,LR-3115,331740,330732.0,Pippin Took,Samwise Gamgee,2022-01-15 12:35:00,1800.0
+Code review,The Ents march on Isengard,Done,2022-01-21 12:11:00,2022-01-14 17:22:00,High,LR-3677,331615,310026.0,Gandalf the Grey,Samwise Gamgee,2022-01-15 11:01:00,3600.0
+Code review,Frodo and Sam reach Mount Doom,Done,2022-01-21 12:11:00,2022-01-14 14:01:00,High,LR-3934,331530,325419.0,Gandalf the Grey,Aragorn,2022-01-14 14:03:00,
+Task,The Paths of the Dead are taken,Done,2022-02-03 15:05:00,2022-01-14 13:25:00,ASAP,LR-3676,331519,,Pippin Took,Aragorn,2022-02-03 15:05:00,9000.0
+Task,The Ents march on Isengard,Done,2022-01-31 13:01:00,2022-01-14 13:14:00,ASAP,LR-7516,331515,,Gandalf the Grey,Gandalf,2022-01-30 17:02:00,40500.0
+Task,The Ents march on Isengard,Done,2022-01-27 11:33:00,2022-01-14 11:56:00,URGENT,LR-1959,331488,,Gandalf the Grey,Gandalf,2022-01-27 09:58:00,34200.0
+Story,Gandalf returns to Middle-Earth,Done,2022-01-22 15:40:00,2022-01-14 12:10:00,High,LR-6982,331495,,Samwise Gamgee,Frodo Baggins,2022-01-22 14:45:00,9000.0
+Task,The One Ring has been found,Done,2022-01-21 12:11:00,2022-01-14 08:19:00,ASAP,LR-7239,331392,,Aragorn,Samwise Gamgee,2022-01-15 17:40:00,1800.0
+Task,The Shire is restored to peace,Done,2022-01-27 10:11:00,2022-01-14 08:20:00,ASAP,LR-2930,331393,,Frodo Baggins,Boromir,2022-01-21 16:34:00,6600.0
+Code review,The Mines of Moria are breached,Done,2022-01-21 12:10:00,2022-01-13 21:55:00,Medium,LR-6826,331335,220717.0,Samwise Gamgee,Gandalf,2022-01-15 12:09:00,4200.0
+Story,Gandalf returns to Middle-Earth,Done,2022-01-30 17:03:00,2022-01-13 15:51:00,High,LR-8901,331249,,Boromir,Samwise Gamgee,2022-01-29 16:54:00,25200.0
+Code review,The fellowship forms in Rivendell,Done,2022-01-21 12:11:00,2022-01-13 15:46:00,High,LR-6385,331246,328415.0,Frodo Baggins,Frodo Baggins,2022-01-14 14:41:00,9000.0
+Bug,The One Ring has been found,Done,2022-01-21 12:11:00,2022-01-13 14:54:00,URGENT,LR-6517,331168,,Pippin Took,Frodo Baggins,2022-01-13 17:15:00,7920.0
+Story,Helm's Deep is under siege,Done,2022-01-13 16:02:00,2022-01-13 13:19:00,High,LR-2482,331082,,Gimli,Frodo Baggins,2022-01-13 15:31:00,9000.0
+Story,Frodo and Sam reach Mount Doom,Done,2022-01-21 12:11:00,2022-01-13 12:47:00,High,LR-3124,331073,,Gimli,Legolas,2022-01-13 16:58:00,3240.0
+Story,Eowyn defeats the Witch-king,Done,2022-02-17 15:09:00,2022-01-13 12:40:00,High,LR-7946,331071,,Frodo Baggins,Boromir,2022-02-17 09:52:00,22200.0
+Story,The Shire is restored to peace,Done,2022-02-12 09:45:00,2022-01-13 12:22:00,High,LR-1566,331051,,Gimli,Boromir,2022-02-12 09:43:00,
+Story,Gollum's betrayal leads to chaos,Done,2022-02-12 09:45:00,2022-01-13 12:21:00,High,LR-9053,331050,,Frodo Baggins,Gimli,2022-02-11 19:37:00,14400.0
+Story,The Shire is restored to peace,Done,2022-02-12 09:45:00,2022-01-13 12:10:00,High,LR-2135,331042,,Legolas,Samwise Gamgee,2022-02-12 09:44:00,17100.0
+Story,The Shire is restored to peace,Done,2022-02-12 09:45:00,2022-01-13 12:09:00,High,LR-5554,331041,,Legolas,Legolas,2022-02-11 12:06:00,
+Epic,The fellowship forms in Rivendell,Done,2022-02-12 09:45:00,2022-01-13 11:58:00,High,LR-2132,331037,,Legolas,Frodo Baggins,2022-02-12 09:44:00,
+Code review,Helm's Deep is under siege,Done,2022-01-21 12:11:00,2022-01-12 00:38:00,High,LR-7930,330829,324838.0,Boromir,Aragorn,2022-01-20 14:49:00,15600.0
+Story,The fellowship forms in Rivendell,Done,2022-01-21 12:11:00,2022-01-10 18:39:00,URGENT,LR-7611,330732,,Samwise Gamgee,Saruman,2022-01-20 00:26:00,19800.0
+Task,Saruman's betrayal is revealed,Done,2022-02-19 14:52:00,2022-01-10 14:23:00,High,LR-8138,330675,,Frodo Baggins,Samwise Gamgee,2022-01-29 16:10:00,10800.0
+Story,The Paths of the Dead are taken,Done,2022-01-13 16:02:00,2022-01-10 10:11:00,High,LR-1320,330592,,Legolas,Frodo Baggins,2022-01-10 12:23:00,7560.0
+Task,The fellowship forms in Rivendell,Done,2022-01-22 15:40:00,2022-01-09 15:18:00,High,LR-1371,330401,,Frodo Baggins,Boromir,2022-01-21 21:35:00,9600.0
+Sub-task,Helm's Deep is under siege,Done,2022-01-24 13:48:00,2022-01-09 14:07:00,ASAP,LR-3123,330353,324035.0,Frodo Baggins,Saruman,2022-01-23 14:21:00,9000.0
+Sub-task,Aragorn claims the throne of Gondor,Done,2022-01-24 13:48:00,2022-01-09 14:07:00,ASAP,LR-5354,330352,324035.0,Aragorn,Frodo Baggins,2022-01-23 13:49:00,8640.0
+Sub-task,Aragorn claims the throne of Gondor,Done,2022-01-21 12:11:00,2022-01-09 14:06:00,Unspecified,LR-9396,330350,324040.0,Gimli,Legolas,2022-01-17 11:09:00,8700.0
+Sub-task,The fall of Sauron at Barad-dûr,Done,2022-01-21 12:11:00,2022-01-09 14:05:00,Unspecified,LR-6482,330349,324037.0,Gandalf the Grey,Gimli,2022-01-17 10:51:00,12300.0
+Task,Gandalf returns to Middle-Earth,Done,2022-02-14 08:19:00,2022-01-09 12:55:00,ASAP,LR-5208,330329,,Gimli,Frodo Baggins,2022-02-12 10:04:00,112500.0
+Task,The fellowship forms in Rivendell,Done,2022-02-10 09:39:00,2022-01-09 08:35:00,High,LR-7289,330212,,Pippin Took,Samwise Gamgee,2022-02-10 09:38:00,8400.0
+Story,Eowyn defeats the Witch-king,Done,2022-01-21 12:11:00,2022-01-02 16:43:00,URGENT,LR-6709,328431,,Pippin Took,Boromir,2022-01-21 12:09:00,
+Story,Aragorn claims the throne of Gondor,Done,2022-01-30 17:03:00,2022-01-08 10:35:00,High,LR-2155,329582,,Frodo Baggins,Boromir,2022-01-29 09:58:00,126000.0
+Task,Aragorn claims the throne of Gondor,Done,2022-01-21 12:11:00,2022-01-08 10:11:00,Medium,LR-3941,329570,,Gimli,Aragorn,2022-01-16 15:14:00,
+Task,The Mines of Moria are breached,Done,2022-02-18 21:22:00,2022-01-08 10:05:00,Medium,LR-3922,329568,,Samwise Gamgee,Gimli,2022-02-18 17:15:00,28800.0
+Task,Gollum's betrayal leads to chaos,Done,2022-02-12 09:45:00,2022-01-07 23:50:00,Medium,LR-6674,329470,,Pippin Took,Gimli,2022-02-12 09:45:00,42600.0
+Code review,The Paths of the Dead are taken,Done,2022-01-13 16:02:00,2022-01-07 18:36:00,ASAP,LR-8847,329435,329281.0,Frodo Baggins,Samwise Gamgee,2022-01-10 22:40:00,7200.0
+Story,Gollum's betrayal leads to chaos,Done,2022-01-21 12:11:00,2022-01-02 16:43:00,Medium,LR-5178,328432,,Frodo Baggins,Frodo Baggins,2022-01-15 01:38:00,3600.0
+Story,The Mines of Moria are breached,Done,2022-01-21 12:11:00,2022-01-02 16:44:00,Medium,LR-4775,328433,,Pippin Took,Samwise Gamgee,2022-01-21 12:10:00,
+Story,The battle of Pelennor Fields,Done,2022-01-13 16:02:00,2022-01-07 12:51:00,ASAP,LR-2812,329281,,Pippin Took,Gandalf,2022-01-13 09:52:00,19800.0
+Code review,Gandalf returns to Middle-Earth,Done,2022-01-21 12:11:00,2022-01-07 12:48:00,High,LR-9691,329280,285599.0,Samwise Gamgee,Legolas,2022-01-15 14:11:00,25200.0
+Story,Saruman's betrayal is revealed,Done,2022-02-03 15:05:00,2022-01-07 11:19:00,High,LR-9158,329258,,Aragorn,Gimli,2022-02-03 15:05:00,6120.0
+Story,Frodo and Sam reach Mount Doom,Done,2022-01-24 13:48:00,2022-01-07 10:07:00,Unspecified,LR-5456,329224,,Frodo Baggins,Legolas,2022-01-24 09:26:00,2700.0
+Story,The fellowship forms in Rivendell,Done,2022-01-24 13:48:00,2022-01-07 10:04:00,Unspecified,LR-6415,329221,,Frodo Baggins,Legolas,2022-01-23 17:34:00,15120.0
+Story,The Mines of Moria are breached,Done,2022-01-13 16:02:00,2022-01-07 09:30:00,Medium,LR-7160,329205,,Frodo Baggins,Saruman,2022-01-09 09:29:00,19800.0
+Story,The Paths of the Dead are taken,Done,2022-01-13 16:02:00,2022-01-06 10:13:00,ASAP,LR-3352,328969,,Gimli,Legolas,2022-01-10 10:11:00,7200.0
+Code review,Eowyn defeats the Witch-king,Done,2022-01-07 22:54:00,2022-01-03 17:32:00,High,LR-5656,328705,328414.0,Legolas,Boromir,2022-01-07 12:54:00,9000.0
+Research,The Ents march on Isengard,Done,2022-01-07 22:54:00,2022-01-03 17:28:00,Medium,LR-1606,328702,,Aragorn,Frodo Baggins,2022-01-03 17:30:00,18000.0
+Code review,The Ents march on Isengard,Done,2022-01-07 22:54:00,2022-01-03 17:21:00,High,LR-7183,328700,328411.0,Aragorn,Boromir,2022-01-07 12:54:00,9000.0
+Story,Eowyn defeats the Witch-king,Done,2022-01-07 22:54:00,2022-01-03 12:54:00,ASAP,LR-2770,328636,,Gimli,Gimli,2022-01-07 15:50:00,
+Story,The Mines of Moria are breached,Done,2022-01-07 22:54:00,2022-01-03 12:04:00,High,LR-7476,328625,,Gimli,Boromir,2022-01-03 13:44:00,3960.0
+Code review,Helm's Deep is under siege,Done,2022-01-07 22:53:00,2022-01-03 11:49:00,ASAP,LR-2177,328621,328554.0,Aragorn,Gimli,2022-01-03 13:20:00,9000.0
+Task,The battle of Pelennor Fields,Done,2022-01-22 15:39:00,2022-01-03 07:56:00,ASAP,LR-9173,328554,,Frodo Baggins,Frodo Baggins,2022-01-22 14:45:00,13680.0
+Code review,The battle of Pelennor Fields,Done,2022-01-07 22:54:00,2022-01-03 10:24:00,High,LR-4817,328588,323449.0,Gimli,Legolas,2022-01-03 17:49:00,12600.0
+Code review,Saruman's betrayal is revealed,Done,2022-01-07 22:54:00,2022-01-02 15:58:00,High,LR-7872,328417,328416.0,Pippin Took,Boromir,2022-01-06 00:09:00,5400.0
+Story,Helm's Deep is under siege,Done,2022-01-13 16:02:00,2022-01-02 15:55:00,High,LR-7788,328416,,Gandalf the Grey,Gimli,2022-01-13 10:22:00,22800.0
+Story,Aragorn claims the throne of Gondor,Done,2022-01-21 12:11:00,2022-01-02 15:53:00,High,LR-5632,328415,,Aragorn,Legolas,2022-01-15 10:05:00,28200.0
+Story,The Paths of the Dead are taken,Done,2022-01-13 16:02:00,2022-01-02 15:52:00,High,LR-6372,328414,,Aragorn,Samwise Gamgee,2022-01-13 10:22:00,35700.0
+Story,Helm's Deep is under siege,Done,2022-01-13 16:02:00,2022-01-02 15:50:00,High,LR-4794,328411,,Pippin Took,Boromir,2022-01-13 10:21:00,30000.0
+Story,The Shire is restored to peace,Done,2022-01-07 22:54:00,2022-01-02 15:50:00,High,LR-7741,328410,,Boromir,Gimli,2022-01-03 13:26:00,16200.0
+Code review,Gandalf returns to Middle-Earth,Done,2022-01-07 22:54:00,2022-01-02 14:02:00,High,LR-3862,328394,326416.0,Frodo Baggins,Aragorn,2022-01-06 10:26:00,10800.0
+Task,Aragorn claims the throne of Gondor,Done,2022-01-07 22:54:00,2022-01-02 13:36:00,Unspecified,LR-9615,328383,,Gimli,Saruman,2022-01-02 15:46:00,9000.0
+Code review,The fellowship forms in Rivendell,Done,2022-01-07 22:54:00,2022-01-01 16:30:00,ASAP,LR-7747,328189,327035.0,Pippin Took,Gimli,2022-01-02 11:22:00,12600.0
+Code review,Gollum's betrayal leads to chaos,Done,2022-01-07 22:54:00,2022-01-01 15:11:00,ASAP,LR-8233,328170,327412.0,Legolas,Aragorn,2022-01-01 15:59:00,3600.0
+Story,Eowyn defeats the Witch-king,Done,2022-02-12 09:45:00,2022-01-01 10:35:00,High,LR-4248,328087,,Boromir,Boromir,2022-02-11 17:54:00,
+Code review,The Ents march on Isengard,Done,2022-01-07 22:54:00,2021-12-31 13:29:00,ASAP,LR-4197,327822,327645.0,Boromir,Frodo Baggins,2021-12-31 14:38:00,18720.0
+Research,Gollum's betrayal leads to chaos,Done,2022-01-07 22:54:00,2021-12-31 12:29:00,Medium,LR-2157,327790,,Boromir,Gimli,2021-12-31 12:30:00,18000.0
+Story,Aragorn claims the throne of Gondor,Done,2022-01-07 22:54:00,2021-12-31 00:09:00,High,LR-9046,327689,,Gandalf the Grey,Legolas,2021-12-31 00:10:00,5400.0
+Bug,The battle of Pelennor Fields,Done,2022-01-07 22:54:00,2021-12-30 16:57:00,ASAP,LR-9068,327645,,Gimli,Boromir,2021-12-31 13:33:00,3600.0
+Code review,Saruman's betrayal is revealed,Done,2022-01-07 22:54:00,2021-12-30 16:57:00,High,LR-5298,327644,327642.0,Gimli,Samwise Gamgee,2021-12-30 16:59:00,3600.0
+Story,The Shire is restored to peace,Done,2022-01-07 22:54:00,2021-12-30 16:54:00,High,LR-6347,327642,,Gandalf the Grey,Frodo Baggins,2021-12-30 17:52:00,1800.0
+Code review,Helm's Deep is under siege,Done,2022-01-07 22:54:00,2021-12-30 15:55:00,ASAP,LR-4949,327592,327110.0,Legolas,Boromir,2021-12-31 09:53:00,7200.0
+Task,Gollum's betrayal leads to chaos,Done,2022-01-07 22:54:00,2021-12-30 09:29:00,ASAP,LR-7407,327412,,Samwise Gamgee,Gandalf,2022-01-07 22:53:00,23400.0
+Code review,The Paths of the Dead are taken,Done,2022-01-07 22:54:00,2021-12-27 17:11:00,High,LR-1633,327137,326395.0,Samwise Gamgee,Legolas,2021-12-31 12:22:00,14400.0
+Task,The battle of Pelennor Fields,Done,2022-01-27 16:35:00,2021-12-27 15:27:00,ASAP,LR-1668,327110,,Frodo Baggins,Samwise Gamgee,2022-01-13 18:49:00,56520.0
+Code review,The battle of Pelennor Fields,Done,2022-01-07 22:54:00,2021-12-27 14:44:00,High,LR-5295,327097,326417.0,Aragorn,Saruman,2022-01-03 12:02:00,7200.0
+Code review,The Paths of the Dead are taken,Done,2022-01-07 22:54:00,2021-12-27 13:31:00,ASAP,LR-4872,327067,327049.0,Boromir,Legolas,2021-12-27 15:56:00,1200.0
+Story,The Shire is restored to peace,Done,2022-01-07 22:54:00,2021-12-27 13:00:00,ASAP,LR-6427,327049,,Gandalf the Grey,Frodo Baggins,2021-12-31 10:50:00,7200.0
+Code review,Gandalf returns to Middle-Earth,Done,2022-01-07 22:54:00,2021-12-27 12:41:00,High,LR-7643,327034,326413.0,Gimli,Gandalf,2022-01-03 12:01:00,7200.0
+Code review,Eowyn defeats the Witch-king,Done,2022-01-07 22:54:00,2021-12-27 00:05:00,ASAP,LR-3703,326899,326844.0,Frodo Baggins,Gandalf,2021-12-27 15:42:00,1200.0
+Code review,Helm's Deep is under siege,Done,2022-01-07 22:54:00,2021-12-26 23:33:00,URGENT,LR-5069,326898,326207.0,Aragorn,Aragorn,2021-12-27 10:45:00,4500.0
+Story,The Ents march on Isengard,Done,2022-01-07 22:54:00,2021-12-26 18:09:00,ASAP,LR-5250,326844,,Gimli,Boromir,2022-01-02 09:38:00,9000.0
+Code review,The One Ring has been found,Done,2022-01-07 22:54:00,2021-12-26 18:07:00,High,LR-4124,326843,326394.0,Boromir,Samwise Gamgee,2021-12-31 11:26:00,10200.0
+Code review,Saruman's betrayal is revealed,Done,2022-01-07 22:54:00,2021-12-26 17:18:00,ASAP,LR-8935,326825,326822.0,Samwise Gamgee,Legolas,2021-12-27 00:10:00,3600.0
+Story,Eowyn defeats the Witch-king,Done,2022-01-07 22:54:00,2021-12-26 17:16:00,ASAP,LR-4251,326822,,Legolas,Samwise Gamgee,2021-12-26 18:09:00,5400.0
+Story,Saruman's betrayal is revealed,Done,2022-01-07 22:54:00,2021-12-26 11:28:00,High,LR-3680,326665,,Samwise Gamgee,Aragorn,2021-12-26 11:29:00,10800.0
+Code review,The Mines of Moria are breached,Done,2022-01-07 22:54:00,2021-12-26 11:16:00,High,LR-7015,326662,326639.0,Gandalf the Grey,Saruman,2021-12-26 13:14:00,3600.0
+Code review,Eowyn defeats the Witch-king,Done,2022-01-07 22:54:00,2021-12-26 11:03:00,ASAP,LR-7276,326657,326376.0,Legolas,Saruman,2021-12-30 10:07:00,7920.0
+Code review,Aragorn claims the throne of Gondor,Done,2022-01-07 22:54:00,2021-12-26 11:03:00,ASAP,LR-8179,326656,326376.0,Gimli,Saruman,2021-12-27 12:45:00,12600.0
+Bug,Saruman's betrayal is revealed,Done,2022-01-07 22:54:00,2021-12-26 10:49:00,ASAP,LR-8713,326652,,Frodo Baggins,Boromir,2021-12-27 15:59:00,300.0
+Code review,The battle of Pelennor Fields,Done,2022-01-07 22:54:00,2021-12-26 10:43:00,High,LR-3330,326649,326432.0,Gandalf the Grey,Saruman,2021-12-26 15:54:00,19800.0
+Task,Frodo and Sam reach Mount Doom,Done,2022-01-07 22:54:00,2021-12-26 10:20:00,High,LR-6263,326639,,Gimli,Gimli,2021-12-27 13:33:00,3600.0
+Bug,The Ents march on Isengard,Done,2022-01-07 22:54:00,2021-12-25 18:03:00,High,LR-3224,326528,,Gimli,Saruman,2022-01-02 12:03:00,7920.0
+Bug,The One Ring has been found,Done,2022-01-07 22:54:00,2021-12-26 09:00:00,ASAP,LR-4629,326603,,Aragorn,Boromir,2021-12-26 16:47:00,900.0
+Task,Frodo and Sam reach Mount Doom,Done,2022-01-30 17:03:00,2021-12-25 17:23:00,High,LR-2689,326526,,Frodo Baggins,Gimli,2022-01-28 09:58:00,9720.0
+Code review,Gollum's betrayal leads to chaos,Done,2022-01-07 22:53:00,2021-12-25 17:10:00,High,LR-3371,326521,285604.0,Gandalf the Grey,Gimli,2021-12-27 13:31:00,3600.0
+Task,The Paths of the Dead are taken,Done,2022-01-07 22:54:00,2021-12-23 22:23:00,ASAP,LR-2613,326043,,Pippin Took,Gandalf,2021-12-26 13:18:00,1200.0
+Story,The fall of Sauron at Barad-dûr,Done,2022-01-07 22:54:00,2021-12-25 12:34:00,High,LR-4030,326432,,Samwise Gamgee,Boromir,2021-12-26 15:43:00,34200.0
+Story,The One Ring has been found,Done,2022-01-07 22:54:00,2021-12-25 11:50:00,High,LR-6268,326417,,Boromir,Gimli,2022-01-03 16:50:00,11520.0
+Story,Aragorn claims the throne of Gondor,Done,2022-01-07 22:54:00,2021-12-25 11:48:00,High,LR-4749,326416,,Legolas,Samwise Gamgee,2022-01-06 10:27:00,35640.0
+Story,The Mines of Moria are breached,Done,2022-01-07 22:54:00,2021-12-25 11:43:00,High,LR-1085,326413,,Boromir,Gandalf,2022-01-03 16:48:00,9180.0
+Story,The Shire is restored to peace,Done,2022-01-13 16:02:00,2021-12-25 11:14:00,High,LR-7727,326402,,Boromir,Aragorn,2022-01-13 16:02:00,2160.0
+Bug,Gollum's betrayal leads to chaos,Done,2022-01-07 22:54:00,2021-12-25 11:08:00,URGENT,LR-1822,326399,,Gandalf the Grey,Boromir,2021-12-25 16:05:00,7200.0
+Task,The Shire is restored to peace,Done,2022-01-13 16:02:00,2021-12-25 10:56:00,High,LR-1690,326395,,Legolas,Gimli,2022-01-13 13:22:00,21600.0
+Task,The Paths of the Dead are taken,Done,2022-01-13 16:02:00,2021-12-25 10:55:00,High,LR-3705,326394,,Gimli,Aragorn,2022-01-13 13:23:00,14400.0
+Story,The fellowship forms in Rivendell,Done,2022-01-07 22:54:00,2021-12-25 09:59:00,ASAP,LR-4829,326376,,Gandalf the Grey,Gimli,2021-12-30 12:09:00,
+Bug,The Mines of Moria are breached,Done,2022-01-07 22:54:00,2021-12-24 10:50:00,URGENT,LR-7598,326128,,Samwise Gamgee,Samwise Gamgee,2021-12-24 17:56:00,
+Code review,The Paths of the Dead are taken,Done,2022-01-07 22:54:00,2021-12-24 17:42:00,Medium,LR-9721,326254,322100.0,Pippin Took,Legolas,2021-12-26 09:22:00,5400.0
+Story,The Mines of Moria are breached,Done,2022-01-07 22:54:00,2021-12-24 15:05:00,URGENT,LR-3126,326207,,Legolas,Boromir,2021-12-30 22:41:00,12600.0
+Bug,Aragorn claims the throne of Gondor,Done,2022-01-07 22:54:00,2021-12-24 12:22:00,Unspecified,LR-1755,326169,,Aragorn,Aragorn,2021-12-24 13:23:00,600.0
+Task,The Shire is restored to peace,Done,2022-01-07 22:54:00,2021-12-24 10:42:00,URGENT,LR-8135,326122,,Gandalf the Grey,Frodo Baggins,2021-12-24 13:21:00,
+Task,The Shire is restored to peace,Done,2022-01-22 15:39:00,2021-12-23 17:34:00,Medium,LR-3339,326005,,Boromir,Gimli,2022-01-20 11:45:00,8400.0
+Code review,Helm's Deep is under siege,Done,2022-01-07 22:54:00,2021-12-23 16:34:00,High,LR-1389,325963,322938.0,Frodo Baggins,Legolas,2021-12-23 17:17:00,7200.0
+Sub-task,The One Ring has been found,Done,2022-01-07 22:54:00,2021-12-23 11:56:00,Unspecified,LR-3502,325880,325878.0,Samwise Gamgee,Samwise Gamgee,2021-12-24 09:47:00,5400.0
+Story,Frodo and Sam reach Mount Doom,Done,2022-01-07 22:54:00,2021-12-23 11:56:00,Medium,LR-8394,325878,,Samwise Gamgee,Saruman,2021-12-24 16:35:00,9000.0
+Code review,Helm's Deep is under siege,Done,2022-01-07 22:54:00,2021-12-23 09:55:00,ASAP,LR-3576,325839,325059.0,Gandalf the Grey,Legolas,2021-12-25 16:04:00,5400.0
+Research,Gandalf returns to Middle-Earth,Done,2022-01-13 14:44:00,2021-12-20 17:35:00,Medium,LR-6408,325575,,Boromir,Legolas,2021-12-20 17:38:00,36000.0
+Task,The Ents march on Isengard,Done,2022-01-21 12:11:00,2021-12-20 10:26:00,High,LR-4116,325419,,Gandalf the Grey,Frodo Baggins,2022-01-14 14:03:00,3600.0
+Task,The Ents march on Isengard,Done,2022-01-21 12:11:00,2021-12-20 10:22:00,High,LR-9324,325418,,Gimli,Samwise Gamgee,2022-01-14 14:03:00,
+Task,Eowyn defeats the Witch-king,Done,2022-01-21 12:11:00,2021-12-20 10:20:00,High,LR-3354,325415,,Pippin Took,Aragorn,2022-01-14 14:03:00,
+Code review,The fall of Sauron at Barad-dûr,Done,2022-01-07 22:54:00,2021-12-19 15:44:00,High,LR-3777,325241,319839.0,Frodo Baggins,Gimli,2021-12-20 09:59:00,7200.0
+Task,Helm's Deep is under siege,Done,2022-01-07 22:54:00,2021-12-19 14:44:00,High,LR-6763,325211,,Samwise Gamgee,Aragorn,2021-12-19 17:10:00,
+Task,Eowyn defeats the Witch-king,Done,2022-01-07 22:54:00,2021-12-19 14:42:00,High,LR-2836,325209,,Gimli,Saruman,2021-12-19 17:10:00,
+Task,Aragorn claims the throne of Gondor,Done,2022-01-07 22:54:00,2021-12-19 14:36:00,High,LR-8359,325205,,Gandalf the Grey,Samwise Gamgee,2021-12-19 17:10:00,1800.0
+Story,Gollum's betrayal leads to chaos,Done,2022-02-03 15:05:00,2021-12-18 14:42:00,High,LR-1878,324815,,Legolas,Gandalf,2022-02-03 15:05:00,28440.0
+Story,Frodo and Sam reach Mount Doom,Done,2021-12-19 12:22:00,2021-12-19 09:19:00,URGENT,LR-2037,325034,,Pippin Took,Gimli,2021-12-19 10:42:00,
+Story,Aragorn claims the throne of Gondor,Done,2021-12-19 12:22:00,2021-12-19 10:10:00,High,LR-8799,325065,,Pippin Took,Saruman,2021-12-19 12:21:00,25200.0
+Story,Helm's Deep is under siege,Done,2022-01-07 22:54:00,2021-12-19 09:55:00,ASAP,LR-6145,325059,,Gimli,Aragorn,2021-12-26 16:25:00,23400.0
+Story,The fellowship forms in Rivendell,Done,2022-01-07 22:54:00,2021-12-19 09:52:00,ASAP,LR-6528,325056,,Gimli,Gandalf,2021-12-25 09:58:00,21600.0
+Story,Eowyn defeats the Witch-king,Done,2022-01-07 22:54:00,2021-12-19 09:50:00,ASAP,LR-8085,325052,,Gimli,Samwise Gamgee,2021-12-20 09:45:00,21600.0
+Story,Gollum's betrayal leads to chaos,Done,2022-01-07 22:54:00,2021-12-19 09:49:00,ASAP,LR-5183,325049,,Pippin Took,Samwise Gamgee,2021-12-23 09:52:00,21600.0
+Task,The fellowship forms in Rivendell,Done,2022-01-07 22:54:00,2021-12-18 18:06:00,High,LR-4174,324874,,Pippin Took,Frodo Baggins,2021-12-25 11:04:00,600.0
+Task,Gollum's betrayal leads to chaos,Done,2022-02-04 18:56:00,2021-12-18 15:57:00,High,LR-6717,324838,,Samwise Gamgee,Legolas,2022-02-04 18:56:00,54000.0
+Code review,Gollum's betrayal leads to chaos,Done,2021-12-19 12:22:00,2021-12-18 14:33:00,High,LR-1730,324812,324737.0,Samwise Gamgee,Aragorn,2021-12-18 16:26:00,9000.0
+Bug,The fall of Sauron at Barad-dûr,Done,2022-01-07 22:54:00,2021-12-18 13:35:00,Unspecified,LR-8384,324765,,Samwise Gamgee,Gandalf,2021-12-20 09:51:00,
+Task,The One Ring has been found,Done,2021-12-20 09:38:00,2021-12-18 12:27:00,High,LR-8094,324749,,Samwise Gamgee,Aragorn,2021-12-19 11:35:00,15600.0
+Story,The fellowship forms in Rivendell,Done,2021-12-19 12:22:00,2021-12-18 12:05:00,High,LR-9976,324737,,Gimli,Samwise Gamgee,2021-12-18 23:17:00,10800.0
+Task,The Paths of the Dead are taken,Done,2022-01-24 13:48:00,2021-12-18 10:27:00,High,LR-9472,324697,,Frodo Baggins,Legolas,2022-01-24 13:21:00,9000.0
+Code review,The Mines of Moria are breached,Done,2021-12-19 12:22:00,2021-12-17 17:19:00,High,LR-6426,324601,322940.0,Gimli,Gimli,2021-12-18 11:57:00,3600.0
+Task,Eowyn defeats the Witch-king,Done,2021-12-19 12:22:00,2021-12-17 16:51:00,ASAP,LR-6658,324572,,Gandalf the Grey,Samwise Gamgee,2021-12-18 10:42:00,7200.0
+Code review,Helm's Deep is under siege,Done,2021-12-18 09:59:00,2021-12-17 15:16:00,High,LR-1360,324533,324441.0,Boromir,Aragorn,2021-12-17 17:36:00,3600.0
+Code review,The Paths of the Dead are taken,Done,2021-12-18 09:59:00,2021-12-17 12:56:00,High,LR-5090,324453,324295.0,Samwise Gamgee,Gimli,2021-12-17 14:08:00,9720.0
+Story,The battle of Pelennor Fields,Done,2021-12-18 09:59:00,2021-12-17 12:31:00,High,LR-7914,324441,,Gimli,Gandalf,2021-12-17 23:12:00,9000.0
+Code review,The Paths of the Dead are taken,Done,2021-12-19 12:22:00,2021-12-17 09:58:00,High,LR-8888,324393,322935.0,Legolas,Aragorn,2021-12-18 15:16:00,10800.0
+Story,The fellowship forms in Rivendell,Done,2022-02-13 13:50:00,2021-12-17 09:57:00,High,LR-3766,324392,,Boromir,Saruman,2021-12-18 12:46:00,9000.0
+Story,The battle of Pelennor Fields,Done,2022-02-10 08:38:00,2021-12-17 09:55:00,High,LR-9063,324391,,Boromir,Aragorn,2022-02-10 08:38:00,18000.0
+Story,The fellowship forms in Rivendell,Done,2022-01-29 14:08:00,2021-12-17 09:55:00,High,LR-9220,324390,,Gimli,Frodo Baggins,2021-12-20 15:14:00,16200.0
+Story,The fellowship forms in Rivendell,Done,2022-01-07 22:54:00,2021-12-17 09:54:00,High,LR-3219,324389,,Gandalf the Grey,Gandalf,2021-12-27 16:23:00,21600.0
+Story,Frodo and Sam reach Mount Doom,Done,2022-02-13 14:42:00,2021-12-17 09:54:00,High,LR-8946,324388,,Gandalf the Grey,Saruman,2021-12-20 12:22:00,5400.0
+Epic,Gandalf returns to Middle-Earth,Done,2022-02-05 17:17:00,2021-12-17 09:53:00,High,LR-1982,324387,,Legolas,Gimli,2022-02-05 17:17:00,12600.0
+Story,Eowyn defeats the Witch-king,Done,2022-02-11 10:37:00,2021-12-17 09:53:00,High,LR-1830,324386,,Gimli,Gimli,2022-02-03 15:04:00,16200.0
+Story,The Ents march on Isengard,Done,2022-01-30 17:03:00,2021-12-17 09:52:00,High,LR-6098,324385,,Pippin Took,Samwise Gamgee,2022-01-29 14:09:00,18000.0
+Story,Aragorn claims the throne of Gondor,Done,2022-01-30 17:03:00,2021-12-17 09:52:00,High,LR-4124,324384,,Legolas,Gandalf,2022-01-29 14:09:00,2400.0
+Code review,Helm's Deep is under siege,Done,2021-12-18 09:59:00,2021-12-16 21:11:00,Unspecified,LR-4337,324329,291911.0,Pippin Took,Frodo Baggins,2021-12-17 12:29:00,10200.0
+Code review,The One Ring has been found,Done,2021-12-18 09:59:00,2021-12-16 18:25:00,ASAP,LR-4350,324305,307664.0,Aragorn,Frodo Baggins,2021-12-17 13:30:00,6300.0
+Code review,Frodo and Sam reach Mount Doom,Done,2021-12-18 09:59:00,2021-12-16 16:32:00,High,LR-5308,324283,287678.0,Boromir,Gandalf,2021-12-16 17:19:00,3600.0
+Story,The Shire is restored to peace,Done,2022-01-21 12:11:00,2021-12-16 11:58:00,Unspecified,LR-8287,324040,,Aragorn,Samwise Gamgee,2022-01-17 01:33:00,39600.0
+Story,The Shire is restored to peace,Done,2022-01-21 12:11:00,2021-12-16 11:57:00,Unspecified,LR-9438,324037,,Boromir,Gimli,2022-01-19 23:03:00,55800.0
+Story,Frodo and Sam reach Mount Doom,Done,2022-01-13 16:02:00,2021-12-16 11:57:00,Unspecified,LR-4418,324036,,Gimli,Samwise Gamgee,2022-01-08 10:37:00,
+Task,The fellowship forms in Rivendell,Done,2022-01-22 17:51:00,2021-12-16 11:55:00,High,LR-4288,324035,,Gandalf the Grey,Saruman,2022-01-21 10:59:00,124200.0
+Task,The fellowship forms in Rivendell,Done,2022-01-09 13:56:00,2021-12-16 11:51:00,High,LR-5463,324031,,Legolas,Frodo Baggins,2022-01-09 13:56:00,117900.0
+Code review,The fellowship forms in Rivendell,Done,2021-12-18 09:59:00,2021-12-16 09:45:00,ASAP,LR-7674,323983,322810.0,Gandalf the Grey,Frodo Baggins,2021-12-16 18:07:00,5400.0
+Story,The battle of Pelennor Fields,Done,2021-12-18 09:59:00,2021-12-16 09:39:00,High,LR-8061,323969,,Legolas,Samwise Gamgee,2021-12-16 15:34:00,12600.0
+Story,The fellowship forms in Rivendell,Done,2021-12-16 09:39:00,2021-12-14 21:47:00,High,LR-8953,323779,,Frodo Baggins,Gandalf,2021-12-15 22:31:00,9000.0
+Story,The Shire is restored to peace,Done,2021-12-16 09:39:00,2021-12-14 21:47:00,High,LR-4956,323778,,Boromir,Gandalf,2021-12-15 22:30:00,12600.0
+Story,The Ents march on Isengard,Done,2021-12-16 09:39:00,2021-12-14 21:46:00,High,LR-1629,323777,,Gimli,Gimli,2021-12-15 22:30:00,12600.0
+Story,Gandalf returns to Middle-Earth,Done,2022-01-21 12:11:00,2021-12-13 18:03:00,Unspecified,LR-6015,323627,,Legolas,Legolas,2022-01-14 15:17:00,
+Task,Helm's Deep is under siege,Done,2021-12-18 09:59:00,2021-12-13 13:51:00,High,LR-3022,323563,,Gandalf the Grey,Gandalf,2021-12-16 10:16:00,
+Task,Aragorn claims the throne of Gondor,Done,2022-01-15 15:56:00,2021-12-13 11:52:00,High,LR-2073,323449,,Boromir,Samwise Gamgee,2022-01-13 09:52:00,18000.0
+Story,Saruman's betrayal is revealed,Done,2021-12-16 09:39:00,2021-12-12 23:07:00,Unspecified,LR-4102,323369,,Gandalf the Grey,Boromir,2021-12-12 23:08:00,5400.0
+Code review,Saruman's betrayal is revealed,Done,2021-12-16 11:09:00,2021-12-12 15:27:00,Unspecified,LR-9860,323310,323304.0,Pippin Took,Legolas,2021-12-12 17:47:00,5280.0
+Story,The Shire is restored to peace,Done,2022-01-07 22:54:00,2021-12-12 15:09:00,Unspecified,LR-3660,323304,,Boromir,Saruman,2021-12-24 08:44:00,600.0
+Story,The Mines of Moria are breached,Done,2021-12-19 15:42:00,2021-12-12 13:30:00,ASAP,LR-2963,323260,,Gandalf the Grey,Aragorn,2021-12-18 13:33:00,48600.0
+Story,Helm's Deep is under siege,Done,2021-12-18 09:59:00,2021-12-12 12:57:00,High,LR-8443,323248,,Aragorn,Boromir,2021-12-18 09:59:00,5400.0
+Story,The Paths of the Dead are taken,Done,2022-01-07 22:54:00,2021-12-12 12:34:00,Unspecified,LR-8740,323242,,Samwise Gamgee,Frodo Baggins,2021-12-20 10:13:00,69300.0
+Task,The Ents march on Isengard,Done,2022-01-07 22:54:00,2021-12-11 21:09:00,High,LR-3302,323096,,Frodo Baggins,Aragorn,2021-12-24 05:40:00,79200.0
+Task,Frodo and Sam reach Mount Doom,Done,2021-12-16 11:37:00,2021-12-11 21:07:00,High,LR-9594,323095,,Legolas,Aragorn,2021-12-16 01:25:00,70200.0
+Code review,Frodo and Sam reach Mount Doom,Done,2021-12-16 09:39:00,2021-12-11 18:15:00,ASAP,LR-4837,323072,322783.0,Gandalf the Grey,Gandalf,2021-12-12 09:54:00,3600.0
+Code review,Eowyn defeats the Witch-king,Done,2021-12-16 09:39:00,2021-12-11 17:13:00,ASAP,LR-6664,323057,322785.0,Pippin Took,Samwise Gamgee,2021-12-12 22:20:00,3600.0
+Code review,The battle of Pelennor Fields,Done,2022-01-07 22:54:00,2021-12-11 15:58:00,ASAP,LR-5279,323033,322651.0,Samwise Gamgee,Boromir,2021-12-24 13:40:00,36000.0
+Story,Frodo and Sam reach Mount Doom,Done,2021-12-16 09:39:00,2021-12-11 14:29:00,URGENT,LR-2721,323011,,Legolas,Gimli,2021-12-12 16:21:00,1200.0
+Sub-task,The battle of Pelennor Fields,Done,2022-01-07 22:54:00,2021-12-11 11:05:00,High,LR-1355,322945,317884.0,Legolas,Aragorn,2021-12-26 09:53:00,6120.0
+Sub-task,Gandalf returns to Middle-Earth,Done,2022-01-07 22:54:00,2021-12-11 11:00:00,High,LR-6630,322943,317884.0,Pippin Took,Frodo Baggins,2021-12-25 11:15:00,34920.0
+Task,Gandalf returns to Middle-Earth,Done,2022-01-07 22:54:00,2021-12-11 10:57:00,High,LR-9809,322940,,Gimli,Samwise Gamgee,2021-12-20 15:26:00,3600.0
+Story,Helm's Deep is under siege,Done,2022-01-07 22:54:00,2021-12-11 10:42:00,High,LR-1651,322935,,Gandalf the Grey,Gandalf,2021-12-20 09:34:00,52200.0
+Code review,The One Ring has been found,Done,2021-12-16 09:39:00,2021-12-11 09:43:00,High,LR-3783,322918,318258.0,Boromir,Legolas,2021-12-13 12:17:00,49500.0
+Task,Helm's Deep is under siege,Done,2021-12-18 09:59:00,2021-12-10 15:29:00,ASAP,LR-2437,322783,,Gimli,Aragorn,2021-12-18 09:58:00,5400.0
+Task,The fellowship forms in Rivendell,Done,2021-12-19 12:22:00,2021-12-10 15:41:00,ASAP,LR-9177,322785,,Gandalf the Grey,Legolas,2021-12-19 12:21:00,4200.0
+Code review,The Ents march on Isengard,Done,2021-12-16 09:39:00,2021-12-10 14:56:00,ASAP,LR-1365,322759,303719.0,Aragorn,Legolas,2021-12-10 15:13:00,2700.0
+Task,Gandalf returns to Middle-Earth,Done,2021-12-16 09:39:00,2021-12-10 13:13:00,Medium,LR-2385,322694,,Pippin Took,Gimli,2021-12-13 10:16:00,9000.0
+Story,The fellowship forms in Rivendell,Done,2022-01-08 10:33:00,2021-12-10 12:55:00,High,LR-4290,322689,,Frodo Baggins,Gimli,2022-01-08 10:33:00,
+Code review,The battle of Pelennor Fields,Done,2021-12-16 09:39:00,2021-12-10 11:57:00,High,LR-5918,322654,321282.0,Gimli,Boromir,2021-12-11 11:13:00,14400.0
+Code review,The Paths of the Dead are taken,Done,2021-12-16 09:39:00,2021-12-10 10:00:00,Medium,LR-3064,322616,280867.0,Boromir,Samwise Gamgee,2021-12-11 16:34:00,9000.0
+Story,The One Ring has been found,Done,2022-01-21 12:11:00,2021-12-10 05:25:00,High,LR-9007,322562,,Aragorn,Frodo Baggins,2022-01-16 00:38:00,84600.0
+Story,The Shire is restored to peace,Done,2021-12-10 10:11:00,2021-12-10 05:19:00,High,LR-9638,322560,,Samwise Gamgee,Legolas,2021-12-10 05:20:00,1800.0
+Story,Aragorn claims the throne of Gondor,Done,2021-12-10 10:11:00,2021-12-10 04:17:00,High,LR-4831,322557,,Samwise Gamgee,Frodo Baggins,2021-12-10 08:43:00,23400.0
+Sub-task,The One Ring has been found,Done,2021-12-10 10:11:00,2021-12-10 02:05:00,Medium,LR-6747,322545,322539.0,Pippin Took,Gimli,2021-12-10 08:26:00,
+Sub-task,The One Ring has been found,Done,2021-12-10 10:11:00,2021-12-10 02:05:00,Medium,LR-4192,322544,322539.0,Boromir,Aragorn,2021-12-10 08:26:00,
+Sub-task,The Mines of Moria are breached,Done,2021-12-10 10:11:00,2021-12-10 02:04:00,Medium,LR-4666,322543,322539.0,Gandalf the Grey,Frodo Baggins,2021-12-10 08:05:00,
+Sub-task,Eowyn defeats the Witch-king,Done,2021-12-10 10:11:00,2021-12-10 02:04:00,Medium,LR-1969,322542,322539.0,Pippin Took,Gandalf,2021-12-10 08:26:00,
+Sub-task,Eowyn defeats the Witch-king,Done,2021-12-10 10:16:00,2021-12-10 02:03:00,Medium,LR-5317,322540,322539.0,Boromir,Saruman,2021-12-10 08:26:00,
+Task,Eowyn defeats the Witch-king,Done,2022-01-07 21:50:00,2021-12-10 01:59:00,Medium,LR-1311,322539,,Legolas,Frodo Baggins,2021-12-10 08:25:00,
+Code review,Eowyn defeats the Witch-king,Done,2021-12-16 09:39:00,2021-12-09 18:22:00,High,LR-3154,322371,321216.0,Aragorn,Samwise Gamgee,2021-12-10 11:57:00,1800.0
+Code review,Gandalf returns to Middle-Earth,Done,2021-12-16 09:39:00,2021-12-09 16:33:00,ASAP,LR-8468,322320,320571.0,Legolas,Frodo Baggins,2021-12-10 21:13:00,3600.0
+Story,The Mines of Moria are breached,Done,2022-01-21 12:11:00,2021-12-09 12:24:00,Medium,LR-9073,322100,,Aragorn,Aragorn,2022-01-21 12:10:00,20400.0
+Bug,Gollum's betrayal leads to chaos,Done,2021-12-10 10:11:00,2021-12-06 11:25:00,URGENT,LR-1277,321457,,Legolas,Frodo Baggins,2021-12-09 17:51:00,
+Code review,Eowyn defeats the Witch-king,Done,2021-12-10 10:11:00,2021-12-09 12:13:00,ASAP,LR-5348,322094,321679.0,Legolas,Gimli,2021-12-09 14:14:00,5400.0
+Story,Aragorn claims the throne of Gondor,Done,2021-12-16 09:39:00,2021-12-09 11:55:00,High,LR-5717,322091,,Gimli,Gimli,2021-12-11 09:32:00,23400.0
+Code review,Gollum's betrayal leads to chaos,Done,2021-12-10 10:10:00,2021-12-09 10:13:00,High,LR-7648,321998,314517.0,Pippin Took,Gimli,2021-12-09 16:56:00,2400.0
+Story,The Paths of the Dead are taken,Done,2021-12-16 09:39:00,2021-12-06 18:06:00,ASAP,LR-7579,321679,,Aragorn,Gimli,2021-12-16 09:38:00,11160.0
+Story,Gandalf returns to Middle-Earth,Done,2021-12-10 10:11:00,2021-12-06 16:03:00,Unspecified,LR-3290,321646,,Samwise Gamgee,Aragorn,2021-12-09 11:51:00,3600.0
+Code review,Saruman's betrayal is revealed,Done,2021-12-10 10:11:00,2021-12-06 11:48:00,High,LR-3816,321471,320779.0,Pippin Took,Saruman,2021-12-06 15:15:00,12600.0
+Bug,Aragorn claims the throne of Gondor,Done,2021-12-16 09:39:00,2021-12-05 17:44:00,ASAP,LR-6554,321284,,Pippin Took,Samwise Gamgee,2021-12-11 20:00:00,17640.0
+Bug,The Mines of Moria are breached,Done,2021-12-18 09:59:00,2021-12-05 17:33:00,High,LR-5402,321282,,Boromir,Gandalf,2021-12-18 09:59:00,23400.0
+Code review,Frodo and Sam reach Mount Doom,Done,2021-12-10 10:10:00,2021-12-05 17:26:00,High,LR-7127,321281,319836.0,Frodo Baggins,Saruman,2021-12-06 13:08:00,7200.0
+Bug,The One Ring has been found,Done,2021-12-16 09:39:00,2021-12-05 15:26:00,High,LR-4478,321216,,Gandalf the Grey,Frodo Baggins,2021-12-11 11:14:00,36000.0
+Story,Gandalf returns to Middle-Earth,Done,2021-12-10 10:11:00,2021-12-05 15:00:00,High,LR-8181,321199,,Pippin Took,Frodo Baggins,2021-12-09 11:47:00,30600.0
+Code review,The One Ring has been found,Done,2021-12-10 10:10:00,2021-12-05 09:48:00,Medium,LR-9084,321042,302107.0,Gimli,Gandalf,2021-12-05 12:49:00,10800.0
+Code review,Helm's Deep is under siege,Done,2021-12-10 10:11:00,2021-12-04 17:24:00,High,LR-5989,320929,320004.0,Pippin Took,Gandalf,2021-12-06 09:00:00,9000.0
+Code review,Eowyn defeats the Witch-king,Done,2021-12-10 10:10:00,2021-12-04 16:23:00,High,LR-3261,320912,319943.0,Boromir,Gimli,2021-12-04 17:15:00,
+Code review,Aragorn claims the throne of Gondor,Done,2021-12-10 10:10:00,2021-12-04 16:23:00,High,LR-5023,320911,319948.0,Gimli,Gandalf,2021-12-04 17:16:00,
+Story,The Shire is restored to peace,Done,2021-12-10 10:11:00,2021-12-04 12:21:00,High,LR-9524,320779,,Legolas,Aragorn,2021-12-06 17:51:00,9000.0
+Code review,The One Ring has been found,Done,2021-12-10 10:10:00,2021-12-04 11:31:00,High,LR-5065,320758,319242.0,Aragorn,Legolas,2021-12-04 12:43:00,4800.0
+Task,The fall of Sauron at Barad-dûr,Done,2021-12-10 10:11:00,2021-12-03 21:46:00,High,LR-2897,320621,,Frodo Baggins,Aragorn,2021-12-09 10:53:00,
+Epic,Saruman's betrayal is revealed,Done,2022-01-07 22:53:00,2020-11-22 12:35:00,ASAP,LR-9650,246373,,Frodo Baggins,Gimli,2021-12-23 08:13:00,
+Bug,Aragorn claims the throne of Gondor,Done,2021-12-16 09:39:00,2021-12-03 18:15:00,ASAP,LR-7440,320571,,Gandalf the Grey,Aragorn,2021-12-11 16:27:00,12000.0
+Code review,The fellowship forms in Rivendell,Done,2021-12-10 10:10:00,2021-12-03 17:32:00,High,LR-4926,320561,319842.0,Boromir,Legolas,2021-12-05 15:53:00,5400.0
+Story,The fellowship forms in Rivendell,Done,2021-12-10 10:11:00,2021-12-03 17:31:00,High,LR-9741,320560,,Samwise Gamgee,Gandalf,2021-12-10 10:10:00,3600.0
+Story,Helm's Deep is under siege,Done,2021-12-10 10:11:00,2021-12-03 14:13:00,Unspecified,LR-2847,320446,,Legolas,Samwise Gamgee,2021-12-10 08:44:00,14400.0
+Code review,The fellowship forms in Rivendell,Done,2021-12-10 10:11:00,2021-12-03 14:29:00,High,LR-1220,320455,320257.0,Gimli,Legolas,2021-12-05 18:02:00,13200.0
+Task,Eowyn defeats the Witch-king,Done,2021-12-10 10:11:00,2021-12-03 13:58:00,High,LR-7239,320440,,Samwise Gamgee,Legolas,2021-12-04 11:32:00,
+Story,The Mines of Moria are breached,Done,2022-02-10 10:29:00,2021-12-03 12:45:00,High,LR-1166,320323,,Gimli,Samwise Gamgee,2022-02-06 17:18:00,76500.0
+Story,The One Ring has been found,Done,2021-12-18 09:59:00,2021-11-29 14:36:00,High,LR-1786,319242,,Aragorn,Saruman,2021-12-18 09:59:00,25200.0
+Task,The fall of Sauron at Barad-dûr,Done,2021-12-10 10:11:00,2021-12-03 11:20:00,High,LR-5635,320257,,Boromir,Legolas,2021-12-06 09:58:00,12600.0
+Code review,The Paths of the Dead are taken,Done,2021-12-10 10:10:00,2021-12-02 17:13:00,High,LR-9470,320025,317908.0,Legolas,Gimli,2021-12-03 16:59:00,5400.0
+Story,The Ents march on Isengard,Done,2021-12-10 10:10:00,2021-12-02 16:12:00,High,LR-4633,320004,,Pippin Took,Frodo Baggins,2021-12-06 14:03:00,14400.0
+Story,Frodo and Sam reach Mount Doom,Done,2021-12-03 09:43:00,2021-12-02 16:03:00,High,LR-4804,319999,,Boromir,Saruman,2021-12-02 16:04:00,5400.0
+Story,Gollum's betrayal leads to chaos,Done,2021-12-10 10:10:00,2021-12-02 15:03:00,High,LR-4494,319948,,Aragorn,Gimli,2021-12-04 17:29:00,1200.0
+Story,Eowyn defeats the Witch-king,Done,2021-12-10 10:10:00,2021-12-02 15:03:00,High,LR-8858,319947,,Gimli,Gimli,2021-12-03 17:41:00,
+Epic,The fellowship forms in Rivendell,Done,2022-01-07 22:54:00,2021-12-02 15:03:00,High,LR-9816,319946,,Legolas,Boromir,2021-12-20 10:22:00,
+Story,Helm's Deep is under siege,Done,2021-12-10 10:10:00,2021-12-02 14:58:00,High,LR-8889,319943,,Gimli,Gandalf,2021-12-04 17:29:00,8700.0
+Story,Gollum's betrayal leads to chaos,Done,2021-12-10 10:10:00,2021-12-02 14:58:00,High,LR-5543,319942,,Gandalf the Grey,Frodo Baggins,2021-12-03 17:43:00,
+Epic,The Ents march on Isengard,Done,2022-01-07 22:54:00,2021-12-02 14:58:00,High,LR-7471,319941,,Gimli,Gimli,2021-12-20 10:21:00,
+Task,Aragorn claims the throne of Gondor,Done,2022-02-04 09:28:00,2021-12-02 13:49:00,High,LR-7245,319906,,Samwise Gamgee,Gandalf,2022-02-03 15:04:00,1200.0
+Story,Aragorn claims the throne of Gondor,Done,2022-02-07 19:26:00,2021-12-02 13:38:00,High,LR-3073,319895,,Pippin Took,Gandalf,2022-02-05 17:57:00,1800.0
+Code review,Aragorn claims the throne of Gondor,Done,2021-12-03 09:42:00,2021-12-02 12:32:00,High,LR-3623,319865,317915.0,Boromir,Frodo Baggins,2021-12-02 15:32:00,13680.0
+Code review,The battle of Pelennor Fields,Done,2021-12-10 10:10:00,2021-12-02 11:55:00,Medium,LR-4425,319853,312972.0,Aragorn,Aragorn,2021-12-04 16:53:00,13800.0
+Story,Gollum's betrayal leads to chaos,Done,2021-12-10 10:10:00,2021-12-02 11:38:00,High,LR-6708,319842,,Frodo Baggins,Frodo Baggins,2021-12-05 16:15:00,7200.0
+Story,Saruman's betrayal is revealed,Done,2021-12-03 09:43:00,2021-12-02 11:36:00,High,LR-7909,319840,,Gimli,Saruman,2021-12-02 15:17:00,14400.0
+Story,Gollum's betrayal leads to chaos,Done,2022-01-07 22:54:00,2021-12-02 11:34:00,High,LR-6685,319839,,Boromir,Gandalf,2021-12-20 12:38:00,32400.0
+Story,The Paths of the Dead are taken,Done,2021-12-10 10:10:00,2021-12-02 11:31:00,High,LR-5065,319836,,Aragorn,Legolas,2021-12-06 14:02:00,14400.0
+Code review,Gandalf returns to Middle-Earth,Done,2021-12-10 10:10:00,2021-12-02 10:12:00,High,LR-1533,319799,317884.0,Gimli,Gimli,2021-12-04 16:00:00,8376.0
+Code review,The Shire is restored to peace,Done,2021-12-03 09:42:00,2021-12-01 10:37:00,ASAP,LR-9360,319628,316802.0,Gandalf the Grey,Gandalf,2021-12-02 12:22:00,3960.0
+Task,The battle of Pelennor Fields,Done,2021-12-10 10:10:00,2021-11-29 19:28:00,URGENT,LR-4485,319394,,Samwise Gamgee,Boromir,2021-12-09 06:36:00,283500.0
+Task,Eowyn defeats the Witch-king,Done,2021-12-16 09:39:00,2021-11-29 16:59:00,ASAP,LR-7486,319274,,Aragorn,Gandalf,2021-12-10 15:15:00,7200.0
+Code review,Eowyn defeats the Witch-king,Done,2021-12-01 10:42:00,2021-11-29 12:26:00,Unspecified,LR-4391,319194,315497.0,Frodo Baggins,Boromir,2021-11-29 14:11:00,5400.0
+Task,Gandalf returns to Middle-Earth,Done,2021-12-10 10:10:00,2021-11-28 17:27:00,High,LR-9852,319023,,Gandalf the Grey,Saruman,2021-12-10 08:43:00,7200.0
+Story,The Shire is restored to peace,Done,2022-01-21 12:11:00,2021-11-26 14:44:00,High,LR-6252,318258,,Gimli,Gandalf,2022-01-21 12:10:00,27000.0
+Code review,Frodo and Sam reach Mount Doom,Done,2021-12-03 09:43:00,2021-11-28 14:45:00,High,LR-5024,318951,318866.0,Samwise Gamgee,Samwise Gamgee,2021-12-02 15:34:00,
+Code review,Gandalf returns to Middle-Earth,Done,2021-12-03 09:42:00,2021-11-28 13:39:00,High,LR-1905,318905,318865.0,Frodo Baggins,Boromir,2021-12-02 15:06:00,
+Story,The Shire is restored to peace,Done,2021-11-29 21:37:00,2021-11-28 13:18:00,High,LR-2190,318893,,Frodo Baggins,Aragorn,2021-11-29 11:25:00,1200.0
+Story,The Paths of the Dead are taken,Done,2021-11-29 21:37:00,2021-11-28 13:17:00,High,LR-4928,318891,,Boromir,Gandalf,2021-11-29 11:57:00,1200.0
+Story,Gollum's betrayal leads to chaos,Done,2021-11-29 21:37:00,2021-11-28 13:09:00,High,LR-1791,318884,,Legolas,Legolas,2021-11-29 11:57:00,1200.0
+Story,The Mines of Moria are breached,Done,2021-11-29 21:37:00,2021-11-28 13:06:00,High,LR-6838,318882,,Boromir,Samwise Gamgee,2021-11-29 11:57:00,1200.0
+Story,The Shire is restored to peace,Done,2021-11-29 21:37:00,2021-11-28 13:02:00,High,LR-2014,318879,,Gandalf the Grey,Boromir,2021-11-29 13:13:00,1200.0
+Story,The fall of Sauron at Barad-dûr,Done,2021-11-29 21:37:00,2021-11-28 13:00:00,High,LR-5490,318877,,Gimli,Saruman,2021-11-29 11:53:00,1200.0
+Story,The One Ring has been found,Done,2021-12-03 09:42:00,2021-11-28 12:39:00,High,LR-7569,318866,,Samwise Gamgee,Boromir,2021-12-02 16:17:00,2100.0
+Story,Frodo and Sam reach Mount Doom,Done,2021-12-03 09:42:00,2021-11-28 12:37:00,High,LR-4557,318865,,Samwise Gamgee,Boromir,2021-12-02 15:15:00,1200.0
+Story,The Paths of the Dead are taken,Done,2021-11-29 21:37:00,2021-11-28 12:33:00,High,LR-8095,318863,,Pippin Took,Legolas,2021-11-28 13:31:00,1200.0
+Code review,The fall of Sauron at Barad-dûr,Done,2021-11-29 21:37:00,2021-11-28 12:18:00,ASAP,LR-6483,318858,289450.0,Boromir,Gimli,2021-11-29 16:41:00,
+Code review,The battle of Pelennor Fields,Done,2021-12-10 10:11:00,2021-11-28 12:16:00,ASAP,LR-2470,318857,320004.0,Gandalf the Grey,Legolas,2021-12-03 16:37:00,
+Code review,Eowyn defeats the Witch-king,Done,2021-11-29 21:37:00,2021-11-28 12:14:00,ASAP,LR-4349,318856,289450.0,Gandalf the Grey,Aragorn,2021-11-29 16:36:00,
+Code review,The fall of Sauron at Barad-dûr,Done,2021-11-29 21:37:00,2021-11-28 12:13:00,ASAP,LR-7180,318854,289450.0,Gimli,Gandalf,2021-11-29 16:31:00,
+Code review,The fellowship forms in Rivendell,Done,2021-11-29 21:37:00,2021-11-28 12:12:00,ASAP,LR-6657,318852,289450.0,Samwise Gamgee,Samwise Gamgee,2021-11-29 16:22:00,
+Code review,Frodo and Sam reach Mount Doom,Done,2021-12-03 09:43:00,2021-11-28 12:10:00,ASAP,LR-3225,318850,319840.0,Samwise Gamgee,Saruman,2021-12-02 15:16:00,
+Code review,Gollum's betrayal leads to chaos,Done,2021-12-10 10:10:00,2021-11-28 12:09:00,ASAP,LR-8607,318849,289450.0,Frodo Baggins,Boromir,2021-12-03 16:37:00,
+Code review,Frodo and Sam reach Mount Doom,Done,2021-12-10 10:10:00,2021-11-28 12:08:00,ASAP,LR-2365,318848,289450.0,Legolas,Legolas,2021-12-03 16:37:00,
+Code review,The fellowship forms in Rivendell,Done,2021-12-10 10:10:00,2021-11-28 12:07:00,ASAP,LR-6124,318846,289450.0,Samwise Gamgee,Gandalf,2021-12-03 16:36:00,
+Code review,Frodo and Sam reach Mount Doom,Done,2021-11-29 21:37:00,2021-11-28 09:58:00,ASAP,LR-1122,318808,315023.0,Aragorn,Frodo Baggins,2021-11-29 13:11:00,1200.0
+Code review,Helm's Deep is under siege,Done,2021-11-29 21:37:00,2021-11-27 17:44:00,High,LR-2297,318668,318634.0,Frodo Baggins,Aragorn,2021-11-28 13:14:00,9000.0
+Story,Helm's Deep is under siege,Done,2021-11-29 21:37:00,2021-11-27 15:32:00,High,LR-7588,318634,,Gandalf the Grey,Samwise Gamgee,2021-11-28 14:56:00,12600.0
+Code review,Gollum's betrayal leads to chaos,Done,2021-11-29 21:37:00,2021-11-27 12:35:00,High,LR-8031,318556,318313.0,Gandalf the Grey,Boromir,2021-11-28 12:26:00,9000.0
+Task,The fellowship forms in Rivendell,Done,2021-12-10 10:10:00,2021-11-27 11:57:00,ASAP,LR-5708,318537,,Gandalf the Grey,Gimli,2021-12-09 14:00:00,85500.0
+Code review,The battle of Pelennor Fields,Done,2021-11-29 21:37:00,2021-11-26 18:21:00,ASAP,LR-4071,318314,317335.0,Gimli,Gimli,2021-11-28 14:50:00,5400.0
+Story,The Paths of the Dead are taken,Done,2021-11-29 21:37:00,2021-11-26 18:20:00,High,LR-9605,318313,,Pippin Took,Samwise Gamgee,2021-11-28 13:14:00,10800.0
+Code review,Gollum's betrayal leads to chaos,Done,2021-11-27 12:48:00,2021-11-25 23:46:00,High,LR-9529,318065,317274.0,Gimli,Legolas,2021-11-26 12:26:00,7200.0
+Code review,Eowyn defeats the Witch-king,Done,2021-11-27 12:48:00,2021-11-25 18:01:00,ASAP,LR-2712,318014,308732.0,Aragorn,Gandalf,2021-11-26 10:54:00,5400.0
+Task,Gandalf returns to Middle-Earth,Done,2021-12-10 10:10:00,2021-11-25 13:09:00,High,LR-8010,317908,,Samwise Gamgee,Saruman,2021-12-04 11:39:00,16200.0
+Sub-task,Helm's Deep is under siege,Done,2021-12-27 17:46:00,2021-11-25 11:50:00,Unspecified,LR-7306,317886,317884.0,Boromir,Boromir,2021-11-25 11:50:00,25200.0
+Bug,The Paths of the Dead are taken,Done,2022-01-07 22:54:00,2021-11-25 11:48:00,High,LR-7576,317884,,Legolas,Gandalf,2021-12-26 09:54:00,71639.0
+Code review,The Shire is restored to peace,Done,2021-11-27 12:48:00,2021-11-24 21:08:00,ASAP,LR-2939,317734,314019.0,Samwise Gamgee,Gandalf,2021-11-25 11:50:00,4200.0
+Story,Gandalf returns to Middle-Earth,Done,2021-12-03 09:42:00,2021-11-22 17:03:00,ASAP,LR-6304,317418,,Aragorn,Frodo Baggins,2021-12-02 10:41:00,53100.0
+Code review,The One Ring has been found,Done,2021-11-27 12:48:00,2021-11-22 16:09:00,ASAP,LR-7305,317403,292990.0,Frodo Baggins,Aragorn,2021-11-25 10:57:00,5400.0
+Code review,The Ents march on Isengard,Done,2021-11-27 12:48:00,2021-11-22 16:03:00,ASAP,LR-9014,317396,317322.0,Aragorn,Aragorn,2021-11-25 15:26:00,4200.0
+Code review,Saruman's betrayal is revealed,Done,2021-11-22 16:33:00,2021-11-22 16:02:00,ASAP,LR-2692,317392,317314.0,Aragorn,Boromir,2021-11-22 16:06:00,300.0
+Story,The Paths of the Dead are taken,Done,2021-12-02 09:59:00,2021-11-22 15:46:00,ASAP,LR-7006,317378,,Boromir,Legolas,2021-12-02 09:58:00,19260.0
+Story,Eowyn defeats the Witch-king,Done,2021-11-22 16:33:00,2021-11-22 13:01:00,ASAP,LR-3061,317323,,Gandalf the Grey,Gimli,2021-11-22 14:59:00,2400.0
+Story,Eowyn defeats the Witch-king,Done,2021-11-27 12:48:00,2021-11-22 13:01:00,ASAP,LR-5096,317322,,Gimli,Gimli,2021-11-27 08:25:00,10800.0
+Epic,Gollum's betrayal leads to chaos,Done,2021-12-19 12:22:00,2021-11-22 13:01:00,ASAP,LR-4820,317321,,Pippin Took,Legolas,2021-11-27 08:40:00,1800.0
+Story,Saruman's betrayal is revealed,Done,2021-11-22 16:33:00,2021-11-22 12:50:00,ASAP,LR-7808,317315,,Samwise Gamgee,Boromir,2021-11-22 14:11:00,1200.0
+Story,The Ents march on Isengard,Done,2022-02-13 14:16:00,2021-11-22 12:50:00,ASAP,LR-4508,317314,,Gandalf the Grey,Gimli,2021-11-27 08:39:00,9000.0
+Epic,The Mines of Moria are breached,Done,2021-12-19 12:22:00,2021-11-22 12:50:00,ASAP,LR-1211,317313,,Pippin Took,Frodo Baggins,2021-11-27 08:39:00,1800.0
+Story,Eowyn defeats the Witch-king,Done,2021-11-28 10:58:00,2021-11-22 11:17:00,High,LR-3446,317274,,Gimli,Samwise Gamgee,2021-11-26 13:02:00,37800.0
+Story,Saruman's betrayal is revealed,Done,2021-11-22 16:33:00,2021-11-22 10:06:00,ASAP,LR-1362,317254,,Samwise Gamgee,Aragorn,2021-11-22 11:13:00,3600.0
+Bug,The Shire is restored to peace,Done,2021-12-02 09:59:00,2021-11-22 09:56:00,Unspecified,LR-9223,317251,,Pippin Took,Saruman,2021-12-02 09:58:00,900.0
+Code review,Aragorn claims the throne of Gondor,Done,2021-11-22 16:33:00,2021-11-21 12:05:00,URGENT,LR-8309,317004,316421.0,Frodo Baggins,Gandalf,2021-11-22 15:54:00,5400.0
+Code review,Aragorn claims the throne of Gondor,Done,2021-11-22 16:33:00,2021-11-21 02:35:00,URGENT,LR-2993,316907,316421.0,Gimli,Gimli,2021-11-21 12:05:00,
+Code review,Helm's Deep is under siege,Done,2021-11-22 16:33:00,2021-11-20 16:30:00,ASAP,LR-2107,316807,315507.0,Boromir,Gimli,2021-11-20 17:24:00,1200.0
+Code review,The Mines of Moria are breached,Done,2021-11-22 16:33:00,2021-11-20 16:29:00,URGENT,LR-5723,316806,316420.0,Aragorn,Gandalf,2021-11-22 12:29:00,4800.0
+Story,The Shire is restored to peace,Done,2021-11-22 16:33:00,2021-11-20 15:34:00,High,LR-8613,316789,,Boromir,Saruman,2021-11-20 15:59:00,
+Code review,The fellowship forms in Rivendell,Done,2021-11-22 16:33:00,2021-11-20 15:27:00,ASAP,LR-6017,316787,310681.0,Frodo Baggins,Saruman,2021-11-20 15:45:00,10800.0
+Code review,The Shire is restored to peace,Done,2021-11-22 18:07:00,2021-11-20 14:34:00,ASAP,LR-3916,316765,315199.0,Frodo Baggins,Gimli,2021-11-22 14:58:00,21000.0
+Code review,Eowyn defeats the Witch-king,Done,2021-11-22 16:33:00,2021-11-20 09:12:00,Medium,LR-8088,316642,307985.0,Samwise Gamgee,Samwise Gamgee,2021-11-20 14:09:00,5400.0
+Sub-task,The One Ring has been found,Done,2021-11-27 12:48:00,2021-11-20 02:06:00,High,LR-9487,316591,305741.0,Gimli,Frodo Baggins,2021-11-25 20:43:00,34200.0
+Task,The Mines of Moria are breached,Done,2021-11-22 16:33:00,2021-11-19 14:21:00,URGENT,LR-5340,316421,,Samwise Gamgee,Saruman,2021-11-22 15:59:00,17400.0
+Task,Helm's Deep is under siege,Done,2021-11-22 16:33:00,2021-11-19 14:20:00,URGENT,LR-9451,316420,,Legolas,Gandalf,2021-11-22 14:03:00,23400.0
+Task,The battle of Pelennor Fields,Done,2021-11-22 16:33:00,2021-11-19 12:00:00,ASAP,LR-8970,316385,,Gandalf the Grey,Frodo Baggins,2021-11-19 15:35:00,
+Code review,Saruman's betrayal is revealed,Done,2021-11-22 16:33:00,2021-11-19 14:02:00,Unspecified,LR-3314,316415,314797.0,Boromir,Legolas,2021-11-20 12:11:00,9000.0
+Task,The Shire is restored to peace,Done,2021-11-22 16:33:00,2021-11-19 12:31:00,ASAP,LR-9444,316392,,Frodo Baggins,Boromir,2021-11-19 17:27:00,
+Story,The battle of Pelennor Fields,Done,2021-11-27 12:48:00,2021-11-15 14:29:00,ASAP,LR-5402,315507,,Aragorn,Gimli,2021-11-25 09:45:00,9000.0
+Code review,The Mines of Moria are breached,Done,2021-11-22 16:33:00,2021-11-19 11:23:00,High,LR-8885,316366,316322.0,Boromir,Gandalf,2021-11-20 11:02:00,3600.0
+Story,Frodo and Sam reach Mount Doom,Done,2021-11-27 13:30:00,2021-11-19 09:56:00,High,LR-3169,316322,,Gimli,Saruman,2021-11-20 15:55:00,15300.0
+Story,The Paths of the Dead are taken,Done,2021-12-16 09:39:00,2021-11-15 15:34:00,Low,LR-7717,315527,,Boromir,Boromir,2021-12-10 17:14:00,
+Code review,Gollum's betrayal leads to chaos,Done,2021-11-22 16:33:00,2021-11-18 18:42:00,High,LR-2823,316181,310898.0,Samwise Gamgee,Aragorn,2021-11-20 00:19:00,14400.0
+Code review,Aragorn claims the throne of Gondor,Done,2021-11-22 16:33:00,2021-11-15 17:17:00,ASAP,LR-5847,315558,309869.0,Gandalf the Grey,Gandalf,2021-11-19 12:54:00,3600.0
+Research,The Paths of the Dead are taken,Done,2022-01-21 12:11:00,2021-11-14 15:23:00,Unspecified,LR-2930,315151,,Gimli,Gimli,2022-01-14 15:19:00,
+Code review,The Shire is restored to peace,Done,2021-11-18 19:11:00,2021-11-14 13:09:00,ASAP,LR-6078,315084,314796.0,Aragorn,Gandalf,2021-11-14 14:04:00,900.0
+Bug,The One Ring has been found,Done,2021-12-02 09:59:00,2021-11-13 15:43:00,ASAP,LR-3581,314796,,Legolas,Legolas,2021-12-02 09:58:00,5400.0
+Bug,The Shire is restored to peace,Done,2021-12-18 09:59:00,2021-11-13 15:18:00,High,LR-5915,314791,,Samwise Gamgee,Gimli,2021-12-18 09:58:00,3600.0
+Sub-task,Gandalf returns to Middle-Earth,Done,2021-11-29 21:37:00,2021-11-14 04:07:00,ASAP,LR-4422,314877,305741.0,Legolas,Frodo Baggins,2021-11-28 11:29:00,149400.0
+Story,The fall of Sauron at Barad-dûr,Done,2021-11-27 13:30:00,2021-11-14 01:10:00,High,LR-7299,314864,,Samwise Gamgee,Legolas,2021-11-14 01:10:00,1800.0
+Code review,The Paths of the Dead are taken,Done,2021-11-22 16:33:00,2021-11-13 18:52:00,Unspecified,LR-7076,314824,312619.0,Pippin Took,Frodo Baggins,2021-11-19 17:20:00,33300.0
+Story,The Paths of the Dead are taken,Done,2021-11-22 16:33:00,2021-11-13 15:50:00,ASAP,LR-5094,314797,,Pippin Took,Gimli,2021-11-20 13:52:00,14400.0
+Code review,The One Ring has been found,Done,2021-11-18 19:11:00,2021-11-13 14:17:00,Medium,LR-1160,314778,302295.0,Aragorn,Gandalf,2021-11-14 17:41:00,600.0
+Sub-task,Saruman's betrayal is revealed,Done,2021-11-18 19:11:00,2021-11-12 21:38:00,Unspecified,LR-4389,314609,314608.0,Gimli,Gandalf,2021-11-12 21:38:00,2700.0
+Task,The Ents march on Isengard,Done,2021-12-16 09:39:00,2021-11-12 19:02:00,High,LR-2409,314517,,Boromir,Saruman,2021-12-16 09:39:00,23400.0
+Code review,Aragorn claims the throne of Gondor,Done,2021-11-18 19:11:00,2021-11-12 18:41:00,High,LR-7787,314514,314048.0,Aragorn,Frodo Baggins,2021-11-14 11:58:00,12600.0
+Code review,Gollum's betrayal leads to chaos,Done,2021-11-18 19:11:00,2021-11-12 18:41:00,High,LR-4820,314513,312575.0,Gandalf the Grey,Saruman,2021-11-13 14:38:00,900.0
+Story,The Ents march on Isengard,Done,2021-11-29 21:37:00,2021-11-11 18:24:00,Unspecified,LR-6518,314122,,Frodo Baggins,Gimli,2021-11-29 21:37:00,5400.0
+Code review,The Ents march on Isengard,Done,2021-11-18 19:11:00,2021-11-12 18:06:00,Unspecified,LR-3800,314503,314465.0,Frodo Baggins,Boromir,2021-11-14 12:26:00,16200.0
+Code review,Helm's Deep is under siege,Done,2021-11-18 19:11:00,2021-11-12 18:04:00,ASAP,LR-1484,314502,308732.0,Gandalf the Grey,Legolas,2021-11-14 16:27:00,7200.0
+Code review,The fellowship forms in Rivendell,Done,2021-12-11 16:08:00,2021-11-12 16:49:00,Medium,LR-9874,314480,307985.0,Frodo Baggins,Boromir,2021-11-14 11:48:00,20700.0
+Code review,Eowyn defeats the Witch-king,Done,2021-11-18 19:11:00,2021-11-12 16:24:00,URGENT,LR-6911,314471,314441.0,Pippin Took,Samwise Gamgee,2021-11-12 17:20:00,900.0
+Story,The Shire is restored to peace,Done,2021-11-18 19:11:00,2021-11-12 16:10:00,High,LR-6126,314465,,Samwise Gamgee,Samwise Gamgee,2021-11-14 17:43:00,9000.0
+Story,The battle of Pelennor Fields,Done,2021-11-22 16:33:00,2021-11-12 15:14:00,URGENT,LR-5632,314441,,Samwise Gamgee,Gimli,2021-11-21 16:36:00,7200.0
+Code review,Saruman's betrayal is revealed,Done,2021-11-18 19:11:00,2021-11-12 12:21:00,ASAP,LR-6744,314225,310681.0,Gandalf the Grey,Aragorn,2021-11-13 12:18:00,14400.0
+Code review,The Ents march on Isengard,Done,2021-11-18 19:11:00,2021-11-12 11:07:00,URGENT,LR-4170,314194,313328.0,Gandalf the Grey,Aragorn,2021-11-12 17:50:00,1440.0
+Sub-task,The battle of Pelennor Fields,Done,2021-11-22 16:33:00,2021-11-11 18:19:00,High,LR-8872,314119,305741.0,Legolas,Aragorn,2021-11-22 10:08:00,21600.0
+Story,Frodo and Sam reach Mount Doom,Done,2022-02-18 15:17:00,2021-11-07 13:46:00,URGENT,LR-5778,312992,,Pippin Took,Legolas,2022-02-18 15:17:00,6300.0
+Task,The Ents march on Isengard,Done,2021-11-18 19:11:00,2021-11-11 16:25:00,High,LR-5241,314081,,Legolas,Gandalf,2021-11-11 16:48:00,5400.0
+Code review,Eowyn defeats the Witch-king,Done,2021-11-18 19:11:00,2021-11-11 16:08:00,URGENT,LR-4995,314080,313852.0,Legolas,Frodo Baggins,2021-11-11 17:07:00,2100.0
+Code review,The Ents march on Isengard,Done,2021-11-18 19:11:00,2021-11-11 15:09:00,High,LR-6378,314067,308764.0,Boromir,Boromir,2021-11-11 18:10:00,1800.0
+Story,Frodo and Sam reach Mount Doom,Done,2021-12-02 09:59:00,2021-11-11 13:15:00,ASAP,LR-4704,314019,,Legolas,Legolas,2021-12-02 09:58:00,10800.0
+Task,Saruman's betrayal is revealed,Done,2021-11-18 19:11:00,2021-11-11 10:33:00,URGENT,LR-2195,313852,,Boromir,Saruman,2021-11-12 08:44:00,7200.0
+Story,The Mines of Moria are breached,Done,2021-11-22 16:33:00,2021-11-11 09:21:00,URGENT,LR-9112,313833,,Samwise Gamgee,Legolas,2021-11-21 16:35:00,3600.0
+Task,Saruman's betrayal is revealed,Done,2021-11-22 16:33:00,2021-11-08 15:48:00,URGENT,LR-1314,313328,,Gimli,Boromir,2021-11-21 16:35:00,18000.0
+Code review,Helm's Deep is under siege,Done,2021-11-18 19:11:00,2021-11-08 11:50:00,Unspecified,LR-3971,313242,313191.0,Samwise Gamgee,Boromir,2021-11-12 12:17:00,13320.0
+Story,The Shire is restored to peace,Done,2021-11-18 19:11:00,2021-11-08 10:06:00,High,LR-4906,313191,,Gimli,Aragorn,2021-11-12 17:22:00,5400.0
+Code review,The Paths of the Dead are taken,Done,2021-11-18 19:11:00,2021-11-08 09:47:00,High,LR-6768,313185,313184.0,Boromir,Aragorn,2021-11-08 15:22:00,600.0
+Bug,The One Ring has been found,Done,2021-11-18 19:11:00,2021-11-08 09:43:00,ASAP,LR-7438,313184,,Legolas,Legolas,2021-11-08 16:29:00,1800.0
+Story,The Mines of Moria are breached,Done,2021-12-10 10:10:00,2021-11-08 08:59:00,High,LR-8376,313172,,Aragorn,Boromir,2021-12-10 10:10:00,19800.0
+Code review,Frodo and Sam reach Mount Doom,Done,2021-11-18 19:11:00,2021-11-07 22:22:00,High,LR-1363,313104,312969.0,Gimli,Gandalf,2021-11-12 12:08:00,18000.0
+Code review,The fall of Sauron at Barad-dûr,Done,2021-11-18 19:11:00,2021-11-07 18:43:00,Unspecified,LR-5624,313082,313040.0,Aragorn,Samwise Gamgee,2021-11-08 14:19:00,
+Story,Helm's Deep is under siege,Done,2021-11-18 19:11:00,2021-11-07 18:15:00,URGENT,LR-6435,313075,,Gandalf the Grey,Boromir,2021-11-08 18:04:00,19800.0
+Code review,The battle of Pelennor Fields,Done,2021-11-18 19:11:00,2021-11-07 17:20:00,Unspecified,LR-6185,313058,295606.0,Gandalf the Grey,Gandalf,2021-11-08 16:19:00,3600.0
+Story,The Mines of Moria are breached,Done,2021-11-18 19:11:00,2021-11-07 16:37:00,High,LR-9124,313040,,Gandalf the Grey,Boromir,2021-11-11 10:06:00,10800.0
+Code review,Helm's Deep is under siege,Done,2021-11-08 10:42:00,2021-11-07 15:57:00,Unspecified,LR-5960,313030,312986.0,Aragorn,Gimli,2021-11-07 22:27:00,3600.0
+Code review,The Paths of the Dead are taken,Done,2021-11-08 10:42:00,2021-11-07 13:51:00,High,LR-7913,312994,312990.0,Pippin Took,Legolas,2021-11-07 15:21:00,900.0
+Bug,Aragorn claims the throne of Gondor,Done,2021-11-08 10:42:00,2021-11-07 13:36:00,High,LR-3057,312990,,Pippin Took,Frodo Baggins,2021-11-07 16:10:00,3600.0
+Story,Frodo and Sam reach Mount Doom,Done,2021-11-08 10:42:00,2021-11-07 13:31:00,High,LR-8284,312986,,Aragorn,Samwise Gamgee,2021-11-08 10:03:00,7200.0
+Code review,The Ents march on Isengard,Done,2021-11-08 10:42:00,2021-11-07 12:59:00,High,LR-6407,312980,305942.0,Aragorn,Boromir,2021-11-07 15:21:00,900.0
+Code review,The Paths of the Dead are taken,Done,2021-11-12 12:20:00,2021-11-07 12:57:00,Unspecified,LR-9867,312979,312901.0,Legolas,Samwise Gamgee,2021-11-07 22:25:00,5400.0
+Story,Helm's Deep is under siege,Done,2021-11-27 13:30:00,2021-11-07 12:40:00,High,LR-7480,312969,,Pippin Took,Gandalf,2021-11-12 13:00:00,18000.0
+Story,Gollum's betrayal leads to chaos,Done,2021-11-27 13:30:00,2021-11-07 11:58:00,High,LR-7482,312953,,Boromir,Frodo Baggins,2021-11-14 01:04:00,16200.0
+Bug,Aragorn claims the throne of Gondor,Done,2021-11-18 19:11:00,2021-11-07 11:04:00,ASAP,LR-5101,312925,,Pippin Took,Gandalf,2021-11-08 16:18:00,12600.0
+Task,The fall of Sauron at Barad-dûr,Done,2021-11-18 19:11:00,2021-11-07 10:10:00,Unspecified,LR-9415,312904,,Gimli,Legolas,2021-11-11 14:58:00,23400.0
+Story,The Ents march on Isengard,Done,2021-11-08 10:42:00,2021-11-07 10:03:00,High,LR-6871,312901,,Frodo Baggins,Legolas,2021-11-08 10:03:00,5400.0
+Bug,Saruman's betrayal is revealed,Done,2021-11-18 19:11:00,2021-11-07 09:08:00,ASAP,LR-9609,312885,,Pippin Took,Samwise Gamgee,2021-11-15 12:35:00,
+Sub-task,Aragorn claims the throne of Gondor,Done,2021-11-08 10:42:00,2021-11-07 09:05:00,Unspecified,LR-5161,312882,312880.0,Pippin Took,Boromir,2021-11-07 09:05:00,1800.0
+Story,Saruman's betrayal is revealed,Done,2022-02-12 09:45:00,2021-11-07 09:03:00,ASAP,LR-6253,312880,,Samwise Gamgee,Legolas,2022-02-12 09:45:00,23400.0
+Story,Frodo and Sam reach Mount Doom,Done,2021-12-16 09:39:00,2021-11-07 00:00:00,High,LR-8347,312806,,Aragorn,Gimli,2021-12-16 09:38:00,3600.0
+Sub-task,The Shire is restored to peace,Done,2021-11-08 10:42:00,2021-11-06 18:58:00,Unspecified,LR-1754,312755,312719.0,Samwise Gamgee,Legolas,2021-11-07 11:52:00,3600.0
+Story,Gandalf returns to Middle-Earth,Done,2021-11-08 10:42:00,2021-11-06 17:06:00,High,LR-2419,312719,,Boromir,Samwise Gamgee,2021-11-07 12:56:00,4320.0
+Story,Gandalf returns to Middle-Earth,Done,2021-11-18 19:11:00,2021-11-06 15:47:00,ASAP,LR-7164,312677,,Pippin Took,Boromir,2021-11-08 16:49:00,6000.0
+Sub-task,Saruman's betrayal is revealed,Done,2021-11-08 10:42:00,2021-11-06 15:46:00,Unspecified,LR-1538,312676,307168.0,Frodo Baggins,Saruman,2021-11-06 15:46:00,1800.0
+Story,The fall of Sauron at Barad-dûr,Done,2021-11-18 19:11:00,2021-11-06 15:32:00,URGENT,LR-9041,312669,,Pippin Took,Frodo Baggins,2021-11-12 15:33:00,1800.0
+Task,The battle of Pelennor Fields,Done,2021-12-19 12:22:00,2021-11-06 15:16:00,Medium,LR-1074,312662,,Legolas,Boromir,2021-12-18 11:48:00,7200.0
+Story,The battle of Pelennor Fields,Done,2021-11-22 16:33:00,2021-11-06 11:51:00,High,LR-6101,312575,,Frodo Baggins,Gimli,2021-11-21 16:35:00,6000.0
+Code review,Helm's Deep is under siege,Done,2021-11-08 10:42:00,2021-11-06 12:16:00,Unspecified,LR-6158,312594,312009.0,Aragorn,Gandalf,2021-11-06 13:02:00,5400.0
+Code review,Frodo and Sam reach Mount Doom,Done,2021-11-08 10:42:00,2021-11-06 12:05:00,URGENT,LR-1446,312584,312280.0,Samwise Gamgee,Samwise Gamgee,2021-11-06 15:04:00,1800.0
+Code review,Saruman's betrayal is revealed,Done,2021-11-08 10:42:00,2021-11-06 01:03:00,High,LR-7256,312427,312190.0,Boromir,Gimli,2021-11-07 10:06:00,10800.0
+Code review,Eowyn defeats the Witch-king,Done,2021-11-08 10:42:00,2021-11-05 17:32:00,Unspecified,LR-6248,312362,306031.0,Pippin Took,Aragorn,2021-11-06 14:15:00,3600.0
+Task,Frodo and Sam reach Mount Doom,Done,2021-11-18 19:11:00,2021-11-05 14:37:00,URGENT,LR-7951,312280,,Pippin Took,Frodo Baggins,2021-11-12 15:33:00,12000.0
+Code review,The Mines of Moria are breached,Done,2021-11-08 10:42:00,2021-11-05 14:15:00,High,LR-2323,312271,306918.0,Gandalf the Grey,Gimli,2021-11-07 14:50:00,4200.0
+Story,Helm's Deep is under siege,Done,2021-11-08 10:42:00,2021-11-05 13:55:00,ASAP,LR-9247,312263,,Frodo Baggins,Gimli,2021-11-06 14:41:00,3600.0
+Code review,The One Ring has been found,Done,2021-11-08 10:42:00,2021-11-05 12:06:00,URGENT,LR-4863,312223,312198.0,Gimli,Boromir,2021-11-05 15:17:00,900.0
+Story,Helm's Deep is under siege,Done,2021-11-18 19:11:00,2021-11-05 11:11:00,URGENT,LR-6659,312198,,Pippin Took,Saruman,2021-11-12 15:33:00,1800.0
+Story,Gollum's betrayal leads to chaos,Done,2021-11-27 13:30:00,2021-11-05 10:53:00,High,LR-4965,312190,,Boromir,Gimli,2021-11-07 10:46:00,12600.0
+Code review,Aragorn claims the throne of Gondor,Done,2021-11-08 10:41:00,2021-11-05 09:03:00,High,LR-6604,312129,305942.0,Aragorn,Boromir,2021-11-06 14:39:00,1200.0
+Code review,Eowyn defeats the Witch-king,Done,2021-11-08 10:42:00,2021-11-05 01:50:00,High,LR-6211,312076,312075.0,Gandalf the Grey,Boromir,2021-11-06 22:08:00,12600.0
+Story,Gollum's betrayal leads to chaos,Done,2021-11-27 13:30:00,2021-11-05 01:49:00,High,LR-6676,312075,,Pippin Took,Saruman,2021-11-06 22:09:00,7200.0
+Story,The Mines of Moria are breached,Done,2021-11-08 10:42:00,2021-11-04 17:52:00,High,LR-1667,312009,,Pippin Took,Frodo Baggins,2021-11-08 10:10:00,18000.0
+Code review,The fellowship forms in Rivendell,Done,2021-11-08 10:42:00,2021-11-04 11:45:00,URGENT,LR-2014,311835,311764.0,Pippin Took,Legolas,2021-11-04 16:43:00,3000.0
+Story,The fellowship forms in Rivendell,Done,2021-11-18 19:11:00,2021-11-04 09:18:00,URGENT,LR-3331,311764,,Samwise Gamgee,Saruman,2021-11-08 23:33:00,3600.0
+Story,The Paths of the Dead are taken,Done,2021-11-08 10:42:00,2021-11-03 23:29:00,High,LR-4551,311689,,Samwise Gamgee,Samwise Gamgee,2021-11-05 16:21:00,45000.0
+Code review,The One Ring has been found,Done,2021-11-04 15:35:00,2021-11-01 16:47:00,Unspecified,LR-4177,311363,310498.0,Pippin Took,Boromir,2021-11-04 11:54:00,2700.0
+Sub-task,The battle of Pelennor Fields,Done,2021-11-06 09:27:00,2021-11-01 16:33:00,Unspecified,LR-5111,311357,296592.0,Pippin Took,Gandalf,2021-11-01 16:33:00,6300.0
+Code review,Gollum's betrayal leads to chaos,Done,2021-11-08 10:42:00,2021-11-01 13:11:00,Medium,LR-7491,311273,310893.0,Samwise Gamgee,Gandalf,2021-11-05 12:57:00,19800.0
+Story,Aragorn claims the throne of Gondor,Done,2021-11-27 13:30:00,2021-11-01 13:05:00,High,LR-9171,311272,,Frodo Baggins,Samwise Gamgee,2021-11-05 01:51:00,28800.0
+Code review,The fall of Sauron at Barad-dûr,Done,2021-11-08 10:42:00,2021-11-01 01:16:00,High,LR-8640,311086,310525.0,Aragorn,Gandalf,2021-11-04 18:28:00,3600.0
+Code review,Helm's Deep is under siege,Done,2021-11-04 15:35:00,2021-10-31 15:42:00,Unspecified,LR-5886,310957,309557.0,Legolas,Frodo Baggins,2021-11-03 23:31:00,14400.0
+Story,Gollum's betrayal leads to chaos,Done,2021-11-22 16:33:00,2021-10-31 12:52:00,High,LR-3749,310898,,Pippin Took,Boromir,2021-11-20 17:18:00,6600.0
+Story,The One Ring has been found,Done,2021-11-08 10:42:00,2021-10-31 12:43:00,High,LR-5329,310893,,Samwise Gamgee,Aragorn,2021-11-05 16:23:00,19800.0
+Story,Eowyn defeats the Witch-king,Done,2021-11-08 10:42:00,2021-10-30 11:03:00,ASAP,LR-9245,310498,,Pippin Took,Legolas,2021-11-05 13:03:00,10500.0
+Bug,Frodo and Sam reach Mount Doom,Done,2021-11-08 10:42:00,2021-10-30 10:32:00,ASAP,LR-5372,310491,,Frodo Baggins,Samwise Gamgee,2021-11-04 18:20:00,18000.0
+Code review,The battle of Pelennor Fields,Done,2021-11-04 15:35:00,2021-10-31 11:58:00,High,LR-6369,310861,300920.0,Boromir,Gimli,2021-10-31 13:42:00,1200.0
+Code review,The Shire is restored to peace,Done,2021-11-08 10:42:00,2021-10-30 21:15:00,Unspecified,LR-2139,310697,310537.0,Aragorn,Gandalf,2021-11-05 10:35:00,19800.0
+Code review,The Mines of Moria are breached,Done,2021-11-04 15:35:00,2021-10-30 17:07:00,ASAP,LR-2290,310641,308797.0,Pippin Took,Frodo Baggins,2021-11-01 16:00:00,5400.0
+Code review,The Shire is restored to peace,Done,2021-11-04 15:35:00,2021-10-30 16:49:00,High,LR-3825,310634,307820.0,Aragorn,Gandalf,2021-10-31 13:05:00,7200.0
+Story,The Shire is restored to peace,Done,2021-11-27 13:30:00,2021-10-30 12:33:00,High,LR-8190,310537,,Gandalf the Grey,Boromir,2021-11-05 16:23:00,23400.0
+Story,The battle of Pelennor Fields,Done,2021-11-27 13:30:00,2021-10-30 12:03:00,High,LR-6007,310525,,Pippin Took,Aragorn,2021-11-11 10:00:00,23400.0
+Code review,Helm's Deep is under siege,Done,2021-11-04 15:35:00,2021-10-30 11:41:00,Unspecified,LR-4833,310517,304513.0,Samwise Gamgee,Saruman,2021-11-01 12:39:00,9000.0
+Code review,Eowyn defeats the Witch-king,Done,2021-11-08 10:42:00,2021-10-30 09:35:00,High,LR-2290,310460,310132.0,Legolas,Gandalf,2021-11-05 10:02:00,10800.0
+Sub-task,The Shire is restored to peace,Done,2021-11-22 16:32:00,2021-10-29 19:30:00,ASAP,LR-2821,310291,305741.0,Aragorn,Gandalf,2021-11-18 23:05:00,156600.0
+Story,The Shire is restored to peace,Done,2021-11-22 16:33:00,2021-10-22 09:24:00,Medium,LR-4611,307985,,Gimli,Frodo Baggins,2021-11-20 17:06:00,16500.0
+Code review,Eowyn defeats the Witch-king,Done,2021-11-04 15:35:00,2021-10-29 13:35:00,High,LR-2951,310157,305942.0,Aragorn,Aragorn,2021-10-29 16:38:00,5400.0
+Code review,Gollum's betrayal leads to chaos,Done,2021-11-04 15:35:00,2021-10-29 13:28:00,High,LR-5506,310151,307662.0,Gimli,Boromir,2021-10-30 16:07:00,3600.0
+Story,The One Ring has been found,Done,2021-11-27 13:30:00,2021-10-29 13:14:00,High,LR-1881,310132,,Gimli,Gandalf,2021-11-11 10:00:00,21600.0
+Bug,The Paths of the Dead are taken,Done,2021-11-04 15:35:00,2021-10-29 11:46:00,High,LR-3743,310079,,Boromir,Legolas,2021-11-04 15:05:00,7200.0
+Code review,Gandalf returns to Middle-Earth,Done,2021-11-04 15:35:00,2021-10-29 10:45:00,High,LR-8649,310038,309692.0,Gandalf the Grey,Frodo Baggins,2021-10-31 10:17:00,3600.0
+Story,The fellowship forms in Rivendell,Done,2021-11-04 15:35:00,2021-10-24 13:45:00,High,LR-5544,308797,,Legolas,Aragorn,2021-11-04 15:04:00,12600.0
+Story,Gollum's betrayal leads to chaos,Done,2021-11-18 19:11:00,2021-10-24 12:16:00,High,LR-2533,308764,,Pippin Took,Legolas,2021-11-12 12:13:00,16200.0
+Story,The Paths of the Dead are taken,Done,2021-11-22 16:33:00,2021-10-28 17:04:00,ASAP,LR-4426,309869,,Boromir,Boromir,2021-11-19 20:24:00,6000.0
+Story,The Shire is restored to peace,Done,2022-01-21 12:11:00,2021-10-29 10:15:00,High,LR-3662,310026,,Legolas,Frodo Baggins,2022-01-15 13:32:00,10800.0
+Story,Gandalf returns to Middle-Earth,Done,2022-01-16 10:14:00,2021-10-23 08:55:00,ASAP,LR-9300,308341,,Gandalf the Grey,Saruman,2021-10-30 01:34:00,
+Story,The battle of Pelennor Fields,Done,2021-11-27 13:30:00,2021-10-28 12:23:00,High,LR-6235,309692,,Aragorn,Aragorn,2021-11-06 16:22:00,23400.0
+Task,The battle of Pelennor Fields,Done,2021-11-06 13:53:00,2021-10-28 03:47:00,High,LR-8120,309557,,Boromir,Aragorn,2021-11-04 10:09:00,75600.0
+Task,The One Ring has been found,Done,2022-01-30 17:03:00,2021-10-25 14:37:00,High,LR-1221,309169,,Boromir,Aragorn,2022-01-27 14:49:00,10800.0
+Sub-task,The Mines of Moria are breached,Done,2021-11-18 19:11:00,2021-10-25 14:20:00,High,LR-1446,309164,305741.0,Frodo Baggins,Gandalf,2021-11-08 11:09:00,50400.0
+Story,Frodo and Sam reach Mount Doom,Done,2021-11-18 19:11:00,2021-10-25 12:28:00,High,LR-3660,309124,,Pippin Took,Boromir,2021-11-11 10:00:00,31200.0
+Story,The Paths of the Dead are taken,Done,2021-11-27 13:30:00,2021-10-25 11:31:00,High,LR-4327,309102,,Samwise Gamgee,Saruman,2021-11-06 16:22:00,28800.0
+Story,Gollum's betrayal leads to chaos,Done,2022-01-21 12:10:00,2021-10-24 19:12:00,Unspecified,LR-5030,308953,,Frodo Baggins,Frodo Baggins,2022-01-14 15:20:00,
+Story,Eowyn defeats the Witch-king,Done,2021-12-16 09:39:00,2021-10-24 17:12:00,High,LR-8816,308900,,Legolas,Samwise Gamgee,2021-12-11 11:26:00,
+Story,The Shire is restored to peace,Done,2021-11-04 15:35:00,2021-10-24 15:33:00,URGENT,LR-4262,308841,,Pippin Took,Legolas,2021-10-24 16:53:00,1800.0
+Story,The Ents march on Isengard,Done,2021-11-29 21:37:00,2021-10-24 11:42:00,ASAP,LR-9015,308732,,Aragorn,Aragorn,2021-11-27 22:40:00,18600.0
+Bug,The fellowship forms in Rivendell,Done,2021-11-08 10:42:00,2021-10-23 17:11:00,ASAP,LR-1871,308533,,Samwise Gamgee,Boromir,2021-11-06 16:22:00,9000.0
+Sub-task,Gandalf returns to Middle-Earth,Done,2021-11-04 15:35:00,2021-10-23 15:35:00,Unspecified,LR-9331,308473,302392.0,Samwise Gamgee,Gandalf,2021-10-23 15:35:00,2700.0
+Sub-task,Gollum's betrayal leads to chaos,Done,2021-11-04 15:35:00,2021-10-23 08:04:00,Unspecified,LR-5878,308332,305741.0,Gandalf the Grey,Gandalf,2021-10-24 10:34:00,27000.0
+Story,Frodo and Sam reach Mount Doom,Done,2021-11-27 13:18:00,2021-10-23 00:24:00,High,LR-6408,308289,,Pippin Took,Legolas,2021-10-24 00:20:00,39600.0
+Task,The Ents march on Isengard,Done,2021-11-04 15:35:00,2021-10-21 17:59:00,High,LR-8951,307863,,Aragorn,Gimli,2021-10-30 10:59:00,1800.0
+Bug,The battle of Pelennor Fields,Done,2021-11-04 15:35:00,2021-10-21 15:51:00,ASAP,LR-1441,307820,,Frodo Baggins,Gimli,2021-10-31 13:18:00,16200.0
+Task,Saruman's betrayal is revealed,Done,2022-01-21 12:11:00,2021-10-21 09:44:00,ASAP,LR-7476,307664,,Boromir,Aragorn,2022-01-14 12:33:00,21600.0
+Bug,Helm's Deep is under siege,Done,2021-11-04 15:35:00,2021-10-21 09:43:00,High,LR-7381,307662,,Samwise Gamgee,Gimli,2021-10-31 09:26:00,54000.0
+Epic,The Paths of the Dead are taken,Done,2022-01-22 11:33:00,2021-08-28 19:29:00,Medium,LR-8297,292269,,Samwise Gamgee,Saruman,2022-01-22 11:33:00,
+Story,The battle of Pelennor Fields,Done,2022-01-21 12:10:00,2021-05-21 15:09:00,Unspecified,LR-8853,275017,,Samwise Gamgee,Gandalf,2022-01-14 15:24:00,
+Epic,The fall of Sauron at Barad-dûr,Done,2021-10-28 14:55:00,2021-08-14 11:34:00,Medium,LR-1493,289415,,Pippin Took,Legolas,2021-10-28 14:55:00,
+Epic,The One Ring has been found,Done,2021-11-29 11:46:00,2021-08-27 15:12:00,Medium,LR-5644,291907,,Pippin Took,Frodo Baggins,2021-11-29 11:46:00,
+Epic,The Mines of Moria are breached,Done,2021-12-19 12:22:00,2021-08-23 15:37:00,High,LR-8530,291358,,Frodo Baggins,Samwise Gamgee,2021-10-31 15:02:00,
+Epic,The Mines of Moria are breached,Done,2022-01-30 17:03:00,2021-09-13 18:08:00,Medium,LR-9337,296520,,Gimli,Aragorn,2022-01-27 17:51:00,
+Epic,The Ents march on Isengard,Done,2021-12-19 12:22:00,2021-09-12 10:15:00,High,LR-8077,295919,,Legolas,Frodo Baggins,2021-11-27 12:46:00,1800.0
+Epic,Gandalf returns to Middle-Earth,Done,2022-01-17 13:34:00,2021-05-03 12:43:00,Medium,LR-5541,272587,,Pippin Took,Samwise Gamgee,2021-12-23 14:35:00,1800.0
+Epic,Saruman's betrayal is revealed,Done,2021-12-19 12:22:00,2021-08-23 17:32:00,Medium,LR-3358,291418,,Legolas,Samwise Gamgee,2021-12-10 15:47:00,
+Epic,The battle of Pelennor Fields,Done,2021-10-28 14:55:00,2021-08-16 14:59:00,Medium,LR-8652,290213,,Gandalf the Grey,Gimli,2021-10-28 14:55:00,
+Epic,The Shire is restored to peace,Done,2021-12-12 17:22:00,2021-08-28 19:24:00,Medium,LR-5498,292267,,Legolas,Gandalf,2021-12-12 17:22:00,
+Epic,The fellowship forms in Rivendell,Done,2022-01-30 17:03:00,2021-09-13 18:25:00,Medium,LR-7453,296539,,Samwise Gamgee,Aragorn,2022-01-27 17:54:00,
+Epic,Gollum's betrayal leads to chaos,Done,2022-01-30 17:03:00,2021-09-13 17:05:00,Medium,LR-1898,296460,,Gimli,Samwise Gamgee,2022-01-28 17:43:00,
+Epic,Eowyn defeats the Witch-king,Done,2021-11-29 13:00:00,2021-08-27 15:00:00,Medium,LR-1122,291897,,Pippin Took,Frodo Baggins,2021-11-29 13:00:00,
+Story,The Paths of the Dead are taken,Done,2022-01-21 12:10:00,2021-07-12 10:45:00,Unspecified,LR-6848,284491,,Frodo Baggins,Legolas,2022-01-14 15:23:00,
+Story,The Shire is restored to peace,Done,2021-12-19 12:21:00,2021-06-18 13:02:00,High,LR-6865,280222,,Samwise Gamgee,Boromir,2021-12-19 09:00:00,150300.0
+Epic,Helm's Deep is under siege,Done,2021-11-29 12:58:00,2021-08-27 15:10:00,Medium,LR-1147,291906,,Gandalf the Grey,Frodo Baggins,2021-11-29 12:58:00,
+Epic,The fellowship forms in Rivendell,Done,2021-10-28 14:55:00,2021-08-16 15:00:00,Medium,LR-8971,290214,,Gimli,Aragorn,2021-10-28 14:55:00,
+Story,The Shire is restored to peace,Done,2022-01-07 22:53:00,2021-07-22 10:37:00,Unspecified,LR-6954,285581,,Samwise Gamgee,Saruman,2022-01-07 09:49:00,
+Story,Saruman's betrayal is revealed,Done,2022-01-21 12:10:00,2021-04-17 11:13:00,Unspecified,LR-9040,269540,,Aragorn,Samwise Gamgee,2022-01-14 15:23:00,
+Story,The One Ring has been found,Done,2022-01-30 17:03:00,2021-09-10 10:35:00,Unspecified,LR-7028,295169,,Samwise Gamgee,Frodo Baggins,2022-01-28 18:07:00,
+Story,Eowyn defeats the Witch-king,Done,2022-01-07 22:53:00,2021-08-15 10:52:00,Medium,LR-9630,289684,,Gimli,Aragorn,2021-12-31 16:59:00,38700.0
+Story,Eowyn defeats the Witch-king,Done,2022-01-30 17:03:00,2021-09-06 16:26:00,High,LR-5469,294276,,Aragorn,Boromir,2022-01-27 17:28:00,
+Story,Gandalf returns to Middle-Earth,Done,2021-11-08 10:41:00,2021-09-06 15:59:00,Unspecified,LR-5690,294236,,Boromir,Gandalf,2021-11-05 18:06:00,
+Story,The One Ring has been found,Done,2022-01-21 12:11:00,2021-08-27 19:56:00,Unspecified,LR-4158,291996,,Aragorn,Legolas,2022-01-14 15:23:00,
+Story,The battle of Pelennor Fields,Done,2022-01-24 13:48:00,2021-09-10 10:37:00,Unspecified,LR-2179,295172,,Pippin Took,Legolas,2022-01-22 18:47:00,
+Story,The One Ring has been found,Done,2022-01-30 17:03:00,2021-09-13 17:01:00,Unspecified,LR-3758,296450,,Aragorn,Aragorn,2022-01-28 17:41:00,
+Story,The Paths of the Dead are taken,Done,2021-11-04 15:35:00,2021-09-06 15:51:00,ASAP,LR-7856,294220,,Pippin Took,Aragorn,2021-10-21 20:00:00,
+Story,Gandalf returns to Middle-Earth,Done,2022-01-21 12:10:00,2021-05-09 14:49:00,Unspecified,LR-4183,273609,,Pippin Took,Gimli,2022-01-14 15:24:00,
+Story,The One Ring has been found,Done,2021-11-04 15:34:00,2021-08-23 17:32:00,Unspecified,LR-7824,291419,,Legolas,Gandalf,2021-10-28 15:34:00,5400.0
+Story,Gandalf returns to Middle-Earth,Done,2022-01-30 17:03:00,2021-09-13 17:10:00,Unspecified,LR-1107,296471,,Frodo Baggins,Frodo Baggins,2022-01-28 17:40:00,
+Story,The fall of Sauron at Barad-dûr,Done,2022-01-07 22:53:00,2021-07-17 14:49:00,High,LR-2578,285041,,Frodo Baggins,Gimli,2021-12-23 14:06:00,
+Story,Eowyn defeats the Witch-king,Done,2022-02-14 08:19:00,2021-09-06 16:18:00,Unspecified,LR-5905,294254,,Boromir,Samwise Gamgee,2022-02-12 18:03:00,
+Story,Frodo and Sam reach Mount Doom,Done,2022-01-24 13:48:00,2021-09-10 10:55:00,Unspecified,LR-3607,295190,,Gimli,Samwise Gamgee,2022-01-23 17:32:00,
+Story,The Paths of the Dead are taken,Done,2022-01-24 13:48:00,2021-09-06 16:25:00,Unspecified,LR-3206,294271,,Gandalf the Grey,Gimli,2022-01-22 18:40:00,
+Story,The Ents march on Isengard,Done,2022-01-16 09:35:00,2021-07-22 11:18:00,High,LR-6778,285604,,Boromir,Legolas,2022-01-13 09:54:00,10800.0
+Story,The Mines of Moria are breached,Done,2022-01-30 17:03:00,2021-09-13 18:23:00,Unspecified,LR-6428,296535,,Gimli,Aragorn,2022-01-29 16:52:00,
+Story,The battle of Pelennor Fields,Done,2022-01-30 17:03:00,2021-09-06 15:58:00,Unspecified,LR-8893,294234,,Gimli,Boromir,2022-01-27 16:35:00,
+Story,The Ents march on Isengard,Done,2022-02-07 19:26:00,2021-09-06 16:28:00,Unspecified,LR-2249,294282,,Samwise Gamgee,Aragorn,2022-02-06 17:21:00,
+Story,The fall of Sauron at Barad-dûr,Done,2022-01-27 11:33:00,2021-09-06 16:19:00,Unspecified,LR-7772,294256,,Pippin Took,Samwise Gamgee,2022-01-24 18:05:00,
+Story,Saruman's betrayal is revealed,Done,2022-01-27 11:33:00,2020-06-06 17:59:00,Medium,LR-9960,220717,,Frodo Baggins,Gimli,2022-01-27 11:33:00,16200.0
+Story,Gollum's betrayal leads to chaos,Done,2022-01-30 17:03:00,2021-09-10 10:36:00,Unspecified,LR-5744,295170,,Aragorn,Saruman,2022-01-29 15:46:00,
+Story,The battle of Pelennor Fields,Done,2022-01-30 17:03:00,2021-09-06 15:58:00,Unspecified,LR-8617,294233,,Gimli,Gandalf,2022-01-27 16:10:00,
+Story,Eowyn defeats the Witch-king,Done,2022-01-30 17:03:00,2021-09-06 16:27:00,Unspecified,LR-3158,294280,,Gandalf the Grey,Aragorn,2022-01-27 17:12:00,
+Story,The battle of Pelennor Fields,Done,2022-02-07 19:26:00,2021-09-06 15:48:00,Unspecified,LR-4490,294213,,Boromir,Saruman,2022-02-06 17:06:00,
+Story,The battle of Pelennor Fields,Done,2022-01-07 22:53:00,2021-02-15 16:10:00,Medium,LR-2024,259989,,Gandalf the Grey,Frodo Baggins,2021-12-26 16:48:00,
+Bug,Eowyn defeats the Witch-king,Done,2021-12-02 09:59:00,2021-09-03 10:21:00,ASAP,LR-4320,292990,,Boromir,Aragorn,2021-12-02 09:58:00,25800.0
+Story,The fall of Sauron at Barad-dûr,Done,2022-01-30 17:03:00,2021-09-13 16:58:00,Unspecified,LR-6948,296446,,Boromir,Boromir,2022-01-29 17:00:00,
+Story,The Paths of the Dead are taken,Done,2022-01-30 17:03:00,2021-09-06 16:25:00,Unspecified,LR-7211,294272,,Gandalf the Grey,Saruman,2022-01-27 16:55:00,
+Story,The Shire is restored to peace,Done,2022-01-30 17:03:00,2021-09-06 15:49:00,Unspecified,LR-4521,294217,,Boromir,Aragorn,2022-01-29 17:12:00,
+Story,Saruman's betrayal is revealed,Done,2022-01-30 17:03:00,2021-09-13 17:05:00,Unspecified,LR-4019,296462,,Boromir,Aragorn,2022-01-28 17:42:00,
+Story,Eowyn defeats the Witch-king,Done,2022-01-30 17:03:00,2021-09-06 15:51:00,Unspecified,LR-3889,294221,,Frodo Baggins,Gandalf,2022-01-27 16:10:00,
+Story,Gandalf returns to Middle-Earth,Done,2022-01-07 22:53:00,2021-08-02 10:18:00,High,LR-2743,287678,,Legolas,Saruman,2021-12-23 08:12:00,28800.0
+Story,Saruman's betrayal is revealed,Done,2022-01-24 13:48:00,2021-09-13 17:08:00,Unspecified,LR-6108,296468,,Aragorn,Frodo Baggins,2022-01-23 17:27:00,
+Story,Frodo and Sam reach Mount Doom,Done,2022-01-30 17:03:00,2021-09-13 18:24:00,Unspecified,LR-2489,296538,,Legolas,Boromir,2022-01-29 16:52:00,
+Story,Frodo and Sam reach Mount Doom,Done,2021-12-03 09:42:00,2021-08-21 11:25:00,ASAP,LR-4759,290768,,Samwise Gamgee,Gimli,2021-12-02 10:41:00,90900.0
+Story,The Paths of the Dead are taken,Done,2021-12-10 10:10:00,2021-09-06 16:26:00,Unspecified,LR-1135,294277,,Aragorn,Boromir,2021-12-04 17:28:00,
+Story,Gandalf returns to Middle-Earth,Done,2021-12-10 10:10:00,2021-09-13 17:03:00,Unspecified,LR-2722,296455,,Legolas,Saruman,2021-12-04 17:40:00,
+Story,Saruman's betrayal is revealed,Done,2022-01-22 15:39:00,2021-05-29 13:55:00,Medium,LR-4919,276635,,Legolas,Saruman,2022-01-22 11:30:00,
+Story,Eowyn defeats the Witch-king,Done,2022-01-30 17:03:00,2021-09-06 16:28:00,Unspecified,LR-2034,294281,,Pippin Took,Saruman,2022-01-27 17:27:00,
+Story,Gandalf returns to Middle-Earth,Done,2022-02-05 17:17:00,2021-08-27 12:37:00,High,LR-2374,291847,,Pippin Took,Gimli,2022-02-05 09:45:00,11520.0
+Story,The fall of Sauron at Barad-dûr,Done,2022-01-24 13:48:00,2021-09-06 16:20:00,Unspecified,LR-7008,294260,,Aragorn,Aragorn,2022-01-22 18:31:00,
+Story,The Paths of the Dead are taken,Done,2021-12-10 10:10:00,2021-09-10 11:07:00,Unspecified,LR-7481,295204,,Pippin Took,Boromir,2021-12-04 17:29:00,
+Story,The fall of Sauron at Barad-dûr,Done,2022-01-30 17:03:00,2021-09-10 10:40:00,Unspecified,LR-5918,295175,,Legolas,Boromir,2022-01-28 18:16:00,
+Story,Gandalf returns to Middle-Earth,Done,2022-02-07 19:26:00,2021-09-06 16:23:00,Unspecified,LR-3544,294266,,Pippin Took,Aragorn,2022-02-07 17:29:00,
+Story,Frodo and Sam reach Mount Doom,Done,2022-01-21 12:10:00,2021-07-12 10:48:00,Unspecified,LR-6985,284493,,Boromir,Samwise Gamgee,2022-01-14 15:25:00,
+Story,The Mines of Moria are breached,Done,2022-01-30 17:03:00,2021-09-10 10:51:00,Unspecified,LR-6829,295184,,Gimli,Gandalf,2022-01-28 18:24:00,
+Story,The fall of Sauron at Barad-dûr,Done,2022-02-07 19:26:00,2021-09-06 16:23:00,High,LR-2880,294265,,Gandalf the Grey,Gandalf,2022-02-07 17:29:00,
+Story,The Mines of Moria are breached,Done,2022-01-30 17:03:00,2021-09-06 16:27:00,Unspecified,LR-3761,294279,,Samwise Gamgee,Frodo Baggins,2022-01-29 17:55:00,
+Story,The Mines of Moria are breached,Done,2022-01-24 13:48:00,2021-09-06 16:19:00,Unspecified,LR-1108,294257,,Legolas,Legolas,2022-01-23 18:38:00,
+Story,Saruman's betrayal is revealed,Done,2022-01-30 17:03:00,2021-09-10 10:49:00,Unspecified,LR-6895,295182,,Gandalf the Grey,Gandalf,2022-01-29 15:34:00,
+Story,Frodo and Sam reach Mount Doom,Done,2022-02-14 08:19:00,2021-07-29 09:54:00,Unspecified,LR-2164,286754,,Gimli,Saruman,2022-02-13 10:12:00,30600.0
+Story,Saruman's betrayal is revealed,Done,2022-01-30 17:03:00,2021-09-06 15:50:00,Unspecified,LR-7169,294219,,Gimli,Gandalf,2022-01-27 16:35:00,
+Story,The fall of Sauron at Barad-dûr,Done,2022-01-21 12:11:00,2021-07-25 12:09:00,Medium,LR-6671,286359,,Pippin Took,Gandalf,2022-01-20 09:02:00,157200.0
+Story,The Paths of the Dead are taken,Done,2022-01-21 12:10:00,2021-07-12 10:52:00,Unspecified,LR-1842,284495,,Pippin Took,Legolas,2022-01-14 15:26:00,
+Story,The fellowship forms in Rivendell,Done,2022-01-27 11:33:00,2021-09-06 15:58:00,Unspecified,LR-1295,294231,,Boromir,Samwise Gamgee,2022-01-24 17:45:00,
+Story,Gandalf returns to Middle-Earth,Done,2022-01-24 13:48:00,2021-09-06 16:19:00,Unspecified,LR-6222,294258,,Legolas,Legolas,2022-01-22 18:20:00,
+Story,The battle of Pelennor Fields,Done,2021-11-04 15:35:00,2021-09-06 15:59:00,ASAP,LR-3114,294235,,Gimli,Samwise Gamgee,2021-10-21 20:02:00,4200.0
+Story,Frodo and Sam reach Mount Doom,Done,2022-01-24 13:48:00,2021-09-10 10:53:00,Unspecified,LR-5377,295187,,Pippin Took,Frodo Baggins,2022-01-23 17:45:00,
+Story,The battle of Pelennor Fields,Done,2022-02-07 19:26:00,2021-05-09 14:48:00,High,LR-4075,273608,,Legolas,Saruman,2022-02-05 22:29:00,
+Story,The Paths of the Dead are taken,Done,2021-12-10 10:10:00,2021-09-10 11:08:00,Unspecified,LR-3729,295206,,Samwise Gamgee,Saruman,2021-12-04 17:41:00,
+Story,Helm's Deep is under siege,Done,2022-01-30 17:03:00,2021-09-10 10:35:00,Unspecified,LR-2632,295166,,Frodo Baggins,Frodo Baggins,2022-01-27 17:41:00,
+Story,The Paths of the Dead are taken,Done,2022-02-17 15:09:00,2021-09-06 16:18:00,Unspecified,LR-7621,294255,,Frodo Baggins,Samwise Gamgee,2022-02-14 17:16:00,
+Story,Saruman's betrayal is revealed,Done,2022-02-14 08:19:00,2021-09-06 16:25:00,Unspecified,LR-2981,294274,,Boromir,Boromir,2022-02-13 18:12:00,
+Story,Frodo and Sam reach Mount Doom,Done,2022-02-12 09:45:00,2021-09-13 17:13:00,Unspecified,LR-3649,296475,,Gimli,Frodo Baggins,2022-02-10 17:43:00,
+Story,The Mines of Moria are breached,Done,2022-02-14 08:19:00,2021-07-29 09:55:00,Unspecified,LR-6401,286755,,Legolas,Aragorn,2022-02-13 14:11:00,900.0
+Story,The Mines of Moria are breached,Done,2021-12-18 10:43:00,2021-06-19 10:27:00,Medium,LR-7038,280867,,Gimli,Aragorn,2021-12-18 09:59:00,11700.0
+Story,The Mines of Moria are breached,Done,2022-01-21 12:11:00,2021-07-22 11:15:00,High,LR-2943,285599,,Gimli,Saruman,2022-01-17 10:09:00,27720.0
+Story,The Ents march on Isengard,Done,2022-01-30 17:03:00,2021-09-06 16:27:00,Unspecified,LR-7030,294278,,Samwise Gamgee,Gimli,2022-01-27 17:06:00,
+Story,Helm's Deep is under siege,Done,2022-02-03 15:05:00,2021-09-10 11:02:00,Unspecified,LR-7492,295198,,Gandalf the Grey,Saruman,2022-01-30 17:08:00,
+Story,Saruman's betrayal is revealed,Done,2021-11-04 15:35:00,2021-08-28 15:24:00,Unspecified,LR-7461,292207,,Gandalf the Grey,Legolas,2021-10-28 12:50:00,19800.0
+Story,Gollum's betrayal leads to chaos,Done,2022-01-21 12:11:00,2021-07-17 13:04:00,Low,LR-2992,285013,,Frodo Baggins,Boromir,2022-01-14 14:32:00,
+Story,Gandalf returns to Middle-Earth,Done,2021-12-16 09:39:00,2021-06-21 16:13:00,Medium,LR-8184,281475,,Frodo Baggins,Legolas,2021-12-13 18:25:00,
+Story,Helm's Deep is under siege,Done,2022-01-24 13:48:00,2021-09-06 16:25:00,Unspecified,LR-8530,294273,,Legolas,Saruman,2022-01-23 18:06:00,
+Story,Aragorn claims the throne of Gondor,Done,2022-01-30 17:03:00,2021-09-13 17:16:00,Unspecified,LR-8992,296477,,Pippin Took,Legolas,2022-01-28 17:37:00,
+Story,The Paths of the Dead are taken,Done,2022-02-12 09:45:00,2021-09-06 16:21:00,Unspecified,LR-4949,294261,,Aragorn,Frodo Baggins,2022-02-10 18:10:00,
+Story,The fellowship forms in Rivendell,Done,2022-01-30 17:03:00,2021-09-13 18:08:00,Unspecified,LR-4098,296521,,Boromir,Frodo Baggins,2022-01-27 17:51:00,
+Story,Gollum's betrayal leads to chaos,Done,2021-11-06 15:26:00,2021-08-23 15:42:00,ASAP,LR-2433,291363,,Frodo Baggins,Samwise Gamgee,2021-10-28 14:23:00,21600.0
+Story,The One Ring has been found,Done,2022-01-07 22:53:00,2021-07-22 11:05:00,Unspecified,LR-1638,285593,,Gimli,Gimli,2021-12-23 15:44:00,
+Story,Gandalf returns to Middle-Earth,Done,2022-01-27 11:33:00,2021-09-06 16:24:00,Unspecified,LR-5328,294268,,Samwise Gamgee,Gandalf,2022-01-24 18:17:00,
+Story,The Ents march on Isengard,Done,2022-01-07 22:53:00,2021-08-27 15:24:00,Unspecified,LR-1835,291911,,Gandalf the Grey,Gimli,2021-12-23 08:12:00,14400.0
+Story,Frodo and Sam reach Mount Doom,Done,2022-01-17 13:34:00,2021-07-17 14:45:00,High,LR-6938,285037,,Aragorn,Boromir,2021-12-23 14:19:00,
+Story,The fall of Sauron at Barad-dûr,Done,2022-02-12 09:45:00,2021-09-06 15:48:00,Unspecified,LR-8902,294211,,Gimli,Frodo Baggins,2022-02-10 17:37:00,
+Story,The Paths of the Dead are taken,Done,2022-02-03 15:05:00,2021-09-06 15:57:00,Unspecified,LR-5495,294230,,Samwise Gamgee,Legolas,2022-01-30 17:24:00,
+Story,The fall of Sauron at Barad-dûr,Done,2022-02-12 09:45:00,2021-09-06 15:59:00,Unspecified,LR-5931,294237,,Frodo Baggins,Samwise Gamgee,2022-02-11 17:34:00,
+Story,Frodo and Sam reach Mount Doom,Done,2022-01-07 22:53:00,2021-07-22 11:10:00,Unspecified,LR-9330,285596,,Gimli,Saruman,2021-12-23 15:48:00,
+Story,The fellowship forms in Rivendell,Done,2022-01-22 15:39:00,2021-06-27 15:53:00,High,LR-8821,282446,,Legolas,Legolas,2022-01-22 15:23:00,
+Story,The fall of Sauron at Barad-dûr,Done,2022-01-30 17:03:00,2021-09-10 10:37:00,Unspecified,LR-8138,295173,,Legolas,Frodo Baggins,2022-01-27 17:47:00,
+Story,The Shire is restored to peace,Done,2021-12-10 10:10:00,2021-09-10 10:47:00,Unspecified,LR-8800,295180,,Pippin Took,Gandalf,2021-12-04 17:30:00,
+Story,Helm's Deep is under siege,Done,2021-12-10 10:10:00,2021-09-10 11:04:00,Unspecified,LR-3468,295201,,Gimli,Saruman,2021-12-04 17:30:00,
+Story,The One Ring has been found,Done,2022-02-07 19:26:00,2021-09-06 15:57:00,Unspecified,LR-6908,294229,,Samwise Gamgee,Samwise Gamgee,2022-02-07 18:00:00,
+Story,The Shire is restored to peace,Done,2021-11-04 15:34:00,2021-07-22 11:22:00,Unspecified,LR-8512,285607,,Boromir,Aragorn,2021-10-24 23:46:00,
+Story,The fellowship forms in Rivendell,Done,2022-01-27 11:33:00,2021-09-06 15:47:00,Unspecified,LR-8947,294210,,Samwise Gamgee,Gandalf,2022-01-24 17:29:00,
+Story,Aragorn claims the throne of Gondor,Done,2022-01-24 13:48:00,2021-09-06 15:52:00,Unspecified,LR-3260,294222,,Pippin Took,Legolas,2022-01-22 18:48:00,
+Story,The fellowship forms in Rivendell,Done,2022-01-07 22:53:00,2021-07-17 14:47:00,High,LR-4754,285039,,Boromir,Gandalf,2021-12-23 14:30:00,
+Story,Eowyn defeats the Witch-king,Done,2022-01-30 17:03:00,2021-09-13 18:28:00,Unspecified,LR-9452,296542,,Frodo Baggins,Frodo Baggins,2022-01-28 17:10:00,
+Story,The Ents march on Isengard,Done,2021-11-08 10:41:00,2021-09-06 15:50:00,Unspecified,LR-7975,294218,,Gimli,Gandalf,2021-11-05 18:05:00,2400.0
+Story,The battle of Pelennor Fields,Done,2022-01-30 17:03:00,2021-09-06 15:49:00,Unspecified,LR-4808,294215,,Legolas,Frodo Baggins,2022-01-28 16:03:00,
+Story,Frodo and Sam reach Mount Doom,Done,2022-02-14 08:19:00,2021-09-06 16:18:00,Unspecified,LR-5645,294253,,Gandalf the Grey,Legolas,2022-02-13 17:43:00,
+Story,The Mines of Moria are breached,Done,2022-01-30 17:03:00,2021-09-13 18:25:00,Unspecified,LR-3663,296540,,Pippin Took,Saruman,2022-01-27 17:54:00,
+Story,Aragorn claims the throne of Gondor,Done,2022-01-22 15:39:00,2021-06-27 14:24:00,High,LR-5859,282414,,Boromir,Boromir,2022-01-22 15:24:00,
+Epic,The One Ring has been found,Done,2021-12-19 12:22:00,2021-09-13 18:42:00,Medium,LR-2115,296561,,Frodo Baggins,Frodo Baggins,2021-11-29 13:02:00,
+Epic,Saruman's betrayal is revealed,Done,2022-01-07 22:53:00,2021-09-13 18:31:00,Medium,LR-3022,296547,,Gandalf the Grey,Saruman,2021-12-20 10:26:00,
+Epic,Frodo and Sam reach Mount Doom,Done,2022-01-30 17:03:00,2021-09-13 18:34:00,Medium,LR-4747,296553,,Gimli,Gandalf,2022-01-27 17:58:00,
+Epic,The battle of Pelennor Fields,Done,2021-12-19 12:22:00,2021-09-13 18:41:00,Medium,LR-1595,296559,,Legolas,Gimli,2021-11-29 13:04:00,
+Epic,Helm's Deep is under siege,Done,2022-01-30 17:03:00,2021-09-13 18:53:00,Medium,LR-2766,296574,,Gimli,Boromir,2022-01-27 17:56:00,
+Research,The fellowship forms in Rivendell,Done,2022-01-30 17:03:00,2021-09-26 17:02:00,High,LR-4959,300579,,Aragorn,Boromir,2022-01-30 15:22:00,
+Task,The fellowship forms in Rivendell,Done,2021-10-18 21:44:00,2021-10-04 00:20:00,High,LR-3037,302873,,Frodo Baggins,Legolas,2021-10-14 18:06:00,
+Task,The Shire is restored to peace,Done,2021-10-18 21:44:00,2021-10-04 00:20:00,High,LR-7586,302874,,Legolas,Aragorn,2021-10-14 18:06:00,
+Task,The Paths of the Dead are taken,Done,2021-10-18 21:44:00,2021-10-07 23:49:00,High,LR-7394,303934,,Legolas,Samwise Gamgee,2021-10-14 18:06:00,
+Task,Saruman's betrayal is revealed,Done,2021-10-18 21:44:00,2021-10-04 00:25:00,High,LR-3800,302876,,Samwise Gamgee,Boromir,2021-10-14 18:06:00,
+Task,Gandalf returns to Middle-Earth,Done,2021-10-18 21:44:00,2021-10-04 00:20:00,High,LR-8667,302872,,Aragorn,Legolas,2021-10-14 18:06:00,
+Sub-task,The Mines of Moria are breached,Done,2021-12-19 11:56:00,2021-10-16 01:00:00,Unspecified,LR-7201,306157,325111.0,Frodo Baggins,Legolas,2021-10-16 01:00:00,1800.0
+Sub-task,Eowyn defeats the Witch-king,Done,2021-10-18 21:44:00,2021-10-14 11:00:00,Unspecified,LR-2504,305666,301883.0,Legolas,Gandalf,2021-10-14 11:00:00,
+Sub-task,Gollum's betrayal leads to chaos,Done,2021-12-19 11:57:00,2021-10-16 01:00:00,Unspecified,LR-2481,306158,325111.0,Frodo Baggins,Saruman,2021-10-16 01:00:00,2100.0
+Sub-task,The One Ring has been found,Done,2021-10-18 21:44:00,2021-10-16 08:41:00,High,LR-2477,306226,302123.0,Boromir,Boromir,2021-10-16 13:21:00,10800.0
+Sub-task,Gollum's betrayal leads to chaos,Done,2021-11-04 15:35:00,2021-10-18 15:11:00,ASAP,LR-1973,307173,302550.0,Frodo Baggins,Legolas,2021-10-29 08:20:00,
+Sub-task,Saruman's betrayal is revealed,Done,2021-10-23 01:07:00,2021-10-16 00:46:00,Medium,LR-8109,306155,303762.0,Pippin Took,Legolas,2021-10-18 10:45:00,5400.0
+Sub-task,The fellowship forms in Rivendell,Done,2021-10-18 21:44:00,2021-10-10 11:00:00,High,LR-6277,304673,304173.0,Gimli,Boromir,2021-10-17 14:18:00,19800.0
+Sub-task,The battle of Pelennor Fields,Done,2021-11-04 15:35:00,2021-10-18 09:58:00,Medium,LR-4874,307048,301883.0,Samwise Gamgee,Frodo Baggins,2021-10-21 09:12:00,3600.0
+Sub-task,Frodo and Sam reach Mount Doom,Done,2021-11-04 15:35:00,2021-10-17 18:33:00,Unspecified,LR-3472,306915,305741.0,Legolas,Aragorn,2021-10-31 10:28:00,
+Sub-task,Gollum's betrayal leads to chaos,Done,2021-11-29 21:37:00,2021-10-14 16:54:00,ASAP,LR-6919,305747,305741.0,Gimli,Gandalf,2021-11-28 17:00:00,18000.0
+Sub-task,The Ents march on Isengard,Done,2021-11-04 15:35:00,2021-10-14 16:54:00,ASAP,LR-8280,305745,305741.0,Aragorn,Saruman,2021-10-28 09:47:00,59400.0
+Sub-task,Gandalf returns to Middle-Earth,Done,2021-11-04 15:35:00,2021-10-14 16:53:00,High,LR-3615,305743,305741.0,Gimli,Aragorn,2021-10-21 16:14:00,118800.0
+Sub-task,Gandalf returns to Middle-Earth,Done,2021-11-04 15:35:00,2021-10-14 16:52:00,High,LR-5274,305742,305741.0,Gandalf the Grey,Boromir,2021-10-22 05:41:00,97200.0
+Story,Frodo and Sam reach Mount Doom,Done,2021-12-23 12:50:00,2021-10-18 14:53:00,ASAP,LR-3291,307168,,Boromir,Gimli,2021-11-05 15:12:00,23400.0
+Story,The Shire is restored to peace,Done,2021-11-04 15:35:00,2021-09-26 14:26:00,ASAP,LR-8421,300519,,Pippin Took,Saruman,2021-10-21 12:08:00,23400.0
+Story,The Paths of the Dead are taken,Done,2021-11-08 10:41:00,2021-09-27 16:48:00,High,LR-5165,300920,,Samwise Gamgee,Frodo Baggins,2021-11-06 16:22:00,9000.0
+Story,The Mines of Moria are breached,Done,2022-01-22 15:39:00,2021-09-18 17:05:00,ASAP,LR-3492,298015,,Aragorn,Legolas,2022-01-21 13:13:00,3600.0
+Story,Saruman's betrayal is revealed,Done,2021-12-16 09:39:00,2021-10-02 10:39:00,Medium,LR-4305,302107,,Pippin Took,Saruman,2021-12-16 09:39:00,24600.0
+Story,Gollum's betrayal leads to chaos,Done,2021-12-10 10:10:00,2021-10-02 11:05:00,High,LR-6236,302123,,Gimli,Aragorn,2021-12-03 15:03:00,34200.0
+Sub-task,The Shire is restored to peace,Done,2021-11-08 10:41:00,2021-09-16 11:22:00,High,LR-7000,297039,280222.0,Gimli,Legolas,2021-11-06 13:51:00,10800.0
+Story,Gollum's betrayal leads to chaos,Done,2022-01-13 16:02:00,2021-10-15 12:15:00,High,LR-1084,305942,,Boromir,Boromir,2022-01-09 17:11:00,176400.0
+Epic,Gandalf returns to Middle-Earth,Done,2022-01-09 17:14:00,2021-10-02 21:21:00,High,LR-1190,302426,,Frodo Baggins,Boromir,2021-12-10 16:55:00,
+Story,The battle of Pelennor Fields,Done,2021-11-04 15:35:00,2021-10-03 11:26:00,ASAP,LR-3854,302550,,Samwise Gamgee,Samwise Gamgee,2021-10-23 12:37:00,21300.0
+Story,Gollum's betrayal leads to chaos,Done,2022-01-30 17:03:00,2021-09-13 18:53:00,Unspecified,LR-8277,296575,,Frodo Baggins,Gandalf,2022-01-27 17:55:00,
+Story,The Paths of the Dead are taken,Done,2021-11-18 19:11:00,2021-10-10 00:16:00,Medium,LR-2398,304579,,Pippin Took,Legolas,2021-11-12 11:40:00,28800.0
+Story,The Shire is restored to peace,Done,2022-02-18 15:17:00,2021-09-19 16:59:00,Unspecified,LR-1006,298450,,Aragorn,Boromir,2022-02-18 10:12:00,3600.0
+Story,The battle of Pelennor Fields,Done,2021-11-08 10:41:00,2021-10-09 17:43:00,ASAP,LR-2735,304513,,Gimli,Samwise Gamgee,2021-11-05 10:20:00,50400.0
+Story,Gandalf returns to Middle-Earth,Done,2021-11-27 16:04:00,2021-10-18 12:34:00,High,LR-3165,307121,,Aragorn,Gandalf,2021-11-11 10:00:00,79200.0
+Story,The Paths of the Dead are taken,Done,2021-11-04 15:35:00,2021-10-07 14:45:00,High,LR-2578,303762,,Boromir,Boromir,2021-10-23 23:46:00,34200.0
+Story,Aragorn claims the throne of Gondor,Done,2021-11-04 15:35:00,2021-10-17 00:36:00,Medium,LR-9912,306523,,Samwise Gamgee,Gimli,2021-10-31 15:54:00,63000.0
+Story,Eowyn defeats the Witch-king,Done,2021-11-29 21:37:00,2021-10-08 16:40:00,High,LR-5970,304173,,Gimli,Samwise Gamgee,2021-11-29 14:58:00,
+Sub-task,Eowyn defeats the Witch-king,Done,2021-11-04 15:34:00,2021-09-16 11:26:00,High,LR-9180,297050,280222.0,Boromir,Aragorn,2021-11-01 11:07:00,12600.0
+Sub-task,Frodo and Sam reach Mount Doom,Done,2021-12-16 09:39:00,2021-09-16 11:24:00,High,LR-4477,297044,280222.0,Frodo Baggins,Frodo Baggins,2021-12-10 12:22:00,19800.0
+Story,The battle of Pelennor Fields,Done,2022-01-07 22:53:00,2021-10-02 14:29:00,Unspecified,LR-8172,302283,,Samwise Gamgee,Saruman,2021-12-20 12:36:00,
+Story,The Paths of the Dead are taken,Done,2021-12-17 09:38:00,2021-10-07 14:15:00,ASAP,LR-6129,303719,,Frodo Baggins,Samwise Gamgee,2021-12-16 09:38:00,11400.0
+Story,The fall of Sauron at Barad-dûr,Done,2021-11-08 10:41:00,2021-10-04 15:53:00,URGENT,LR-7271,303128,,Aragorn,Gimli,2021-11-05 10:46:00,
+Story,Frodo and Sam reach Mount Doom,Done,2021-11-04 15:35:00,2021-10-01 15:34:00,High,LR-7586,301883,,Frodo Baggins,Samwise Gamgee,2021-10-23 00:37:00,16200.0
+Story,Eowyn defeats the Witch-king,Done,2021-11-04 15:35:00,2021-10-14 17:15:00,ASAP,LR-7157,305752,,Samwise Gamgee,Frodo Baggins,2021-10-25 13:38:00,27000.0
+Sub-task,The One Ring has been found,Done,2021-11-04 15:34:00,2021-09-16 11:21:00,High,LR-3365,297038,280222.0,Gimli,Frodo Baggins,2021-11-04 09:53:00,10800.0
+Story,Saruman's betrayal is revealed,Done,2022-01-30 17:03:00,2021-09-13 18:35:00,Unspecified,LR-2607,296554,,Frodo Baggins,Samwise Gamgee,2022-01-27 17:57:00,
+Sub-task,The fall of Sauron at Barad-dûr,Done,2021-11-18 19:11:00,2021-09-16 11:21:00,High,LR-5255,297037,280222.0,Pippin Took,Gandalf,2021-11-13 15:09:00,14400.0
+Story,The Mines of Moria are breached,Done,2022-02-12 09:45:00,2021-09-26 12:59:00,High,LR-4627,300478,,Legolas,Gandalf,2022-02-12 09:45:00,14040.0
+Sub-task,Saruman's betrayal is revealed,Done,2021-11-04 15:34:00,2021-09-16 11:24:00,High,LR-5052,297046,280222.0,Frodo Baggins,Samwise Gamgee,2021-11-01 15:34:00,12600.0
+Story,The fellowship forms in Rivendell,Done,2021-12-16 09:39:00,2021-10-14 16:51:00,High,LR-1882,305741,,Gimli,Frodo Baggins,2021-12-10 14:04:00,
+Sub-task,Eowyn defeats the Witch-king,Done,2021-11-08 10:41:00,2021-09-16 11:22:00,High,LR-6381,297040,280222.0,Pippin Took,Gimli,2021-11-04 16:20:00,9000.0
+Story,Saruman's betrayal is revealed,Done,2022-02-17 15:09:00,2021-09-13 18:46:00,Unspecified,LR-1423,296570,,Frodo Baggins,Legolas,2022-02-14 14:15:00,
+Bug,The fall of Sauron at Barad-dûr,Done,2021-11-29 21:37:00,2021-10-03 11:14:00,High,LR-9086,302542,,Samwise Gamgee,Frodo Baggins,2021-11-27 14:01:00,48600.0
+Story,The fall of Sauron at Barad-dûr,Done,2022-01-24 07:34:00,2021-10-15 08:12:00,ASAP,LR-6092,305852,,Legolas,Gandalf,2021-10-29 07:32:00,
+Story,The Ents march on Isengard,Done,2021-11-08 10:41:00,2021-10-02 12:35:00,High,LR-7234,302156,,Frodo Baggins,Frodo Baggins,2021-11-05 10:10:00,
+Story,The Shire is restored to peace,Done,2021-11-29 21:37:00,2021-09-30 11:50:00,High,LR-5544,301426,,Gimli,Gimli,2021-11-27 14:01:00,45000.0
+Story,Eowyn defeats the Witch-king,Done,2022-01-30 17:03:00,2021-09-13 18:39:00,Later,LR-2611,296557,,Aragorn,Saruman,2022-01-29 16:09:00,
+Story,The battle of Pelennor Fields,Done,2021-11-08 10:41:00,2021-10-01 14:35:00,URGENT,LR-8512,301852,,Pippin Took,Aragorn,2021-11-04 17:49:00,43200.0
+Story,Frodo and Sam reach Mount Doom,Done,2021-11-08 10:42:00,2021-10-15 14:55:00,ASAP,LR-6725,306031,,Legolas,Saruman,2021-11-08 10:12:00,6600.0
+Story,The Shire is restored to peace,Done,2022-01-30 17:03:00,2021-09-13 18:29:00,Unspecified,LR-1392,296544,,Boromir,Aragorn,2022-01-28 16:50:00,
+Story,The fellowship forms in Rivendell,Done,2022-01-07 22:53:00,2021-10-02 14:36:00,Unspecified,LR-2928,302291,,Frodo Baggins,Aragorn,2021-12-20 12:36:00,
+Sub-task,Gollum's betrayal leads to chaos,Done,2021-12-16 09:39:00,2021-09-16 11:27:00,High,LR-9180,297053,280222.0,Gandalf the Grey,Boromir,2021-12-12 09:42:00,36900.0
+Story,The fall of Sauron at Barad-dûr,Done,2022-01-21 12:11:00,2021-09-30 09:36:00,Medium,LR-6044,301376,,Gandalf the Grey,Frodo Baggins,2022-01-14 14:31:00,
+Story,The Ents march on Isengard,Done,2021-11-22 16:32:00,2021-10-02 14:40:00,Medium,LR-8967,302295,,Legolas,Frodo Baggins,2021-11-22 09:39:00,14400.0
+Story,The battle of Pelennor Fields,Done,2022-02-14 08:19:00,2021-09-18 17:44:00,High,LR-1292,298034,,Pippin Took,Aragorn,2022-02-13 18:29:00,
+Story,The Shire is restored to peace,Done,2022-02-17 15:09:00,2021-10-01 17:19:00,ASAP,LR-3945,301919,,Aragorn,Legolas,2022-02-17 11:49:00,10800.0
+Sub-task,Gollum's betrayal leads to chaos,Done,2021-11-08 10:41:00,2021-09-16 11:27:00,High,LR-4945,297052,280222.0,Legolas,Saruman,2021-11-07 15:15:00,10800.0
+Story,Gollum's betrayal leads to chaos,Done,2021-11-18 19:11:00,2021-09-13 20:16:00,URGENT,LR-2209,296592,,Boromir,Boromir,2021-11-12 15:34:00,58200.0
+Story,The fall of Sauron at Barad-dûr,Done,2021-11-08 10:41:00,2021-09-17 05:52:00,Medium,LR-3012,297414,,Frodo Baggins,Samwise Gamgee,2021-11-07 15:53:00,14400.0
+Story,The Paths of the Dead are taken,Done,2022-01-30 17:03:00,2021-09-13 18:31:00,Unspecified,LR-6675,296546,,Boromir,Frodo Baggins,2022-01-28 16:23:00,
+Sub-task,Frodo and Sam reach Mount Doom,Done,2021-11-04 15:35:00,2021-10-16 16:06:00,ASAP,LR-2337,306402,305104.0,Boromir,Saruman,2021-10-21 09:18:00,2100.0
+Bug,The battle of Pelennor Fields,Done,2021-11-04 15:35:00,2021-10-18 14:49:00,ASAP,LR-9181,307167,,Samwise Gamgee,Aragorn,2021-10-21 13:30:00,1800.0
+Bug,Helm's Deep is under siege,Done,2021-11-04 15:35:00,2021-10-11 14:15:00,ASAP,LR-1313,305104,,Frodo Baggins,Saruman,2021-10-21 09:37:00,42000.0
+Bug,The Ents march on Isengard,Done,2021-12-16 09:39:00,2021-10-09 15:11:00,ASAP,LR-1634,304468,,Samwise Gamgee,Frodo Baggins,2021-12-11 11:24:00,5400.0
+Bug,Gollum's betrayal leads to chaos,Done,2021-11-18 19:11:00,2021-10-10 16:19:00,ASAP,LR-7550,304795,,Gimli,Frodo Baggins,2021-11-11 10:00:00,21300.0
+Bug,The fall of Sauron at Barad-dûr,Done,2021-11-18 19:11:00,2021-10-14 14:10:00,URGENT,LR-9581,305715,,Aragorn,Frodo Baggins,2021-11-12 15:33:00,34200.0
+Task,Gollum's betrayal leads to chaos,Done,2022-01-28 12:07:00,2021-10-17 18:52:00,High,LR-4374,306918,,Gimli,Aragorn,2021-11-11 10:55:00,7200.0
+Story,The Mines of Moria are breached,Done,2021-10-18 21:44:00,2021-08-02 14:36:00,Unspecified,LR-5735,287739,,Frodo Baggins,Boromir,2021-10-18 21:40:00,
+Story,Gollum's betrayal leads to chaos,Done,2021-10-18 21:44:00,2021-08-02 14:25:00,Medium,LR-9699,287732,,Aragorn,Boromir,2021-10-18 21:40:00,
+Story,Frodo and Sam reach Mount Doom,Done,2021-10-18 21:44:00,2021-08-02 14:17:00,Unspecified,LR-4995,287727,,Samwise Gamgee,Legolas,2021-10-18 21:40:00,
+Story,The One Ring has been found,Done,2021-10-18 21:44:00,2021-08-02 13:44:00,URGENT,LR-5505,287713,,Boromir,Saruman,2021-10-18 21:42:00,
+Bug,The fellowship forms in Rivendell,Done,2021-10-18 21:44:00,2021-07-31 14:55:00,Unspecified,LR-5209,287343,,Legolas,Frodo Baggins,2021-10-18 21:40:00,
+Bug,The battle of Pelennor Fields,Done,2021-10-18 21:44:00,2021-07-31 14:55:00,URGENT,LR-8089,287342,,Aragorn,Saruman,2021-10-18 21:41:00,
+Story,Eowyn defeats the Witch-king,Done,2021-10-18 21:44:00,2021-07-24 17:58:00,ASAP,LR-9037,286230,,Frodo Baggins,Samwise Gamgee,2021-10-18 21:41:00,
+Story,The fellowship forms in Rivendell,Done,2021-10-18 21:44:00,2021-07-24 17:57:00,ASAP,LR-3454,286229,,Aragorn,Legolas,2021-10-18 21:41:00,
+Story,The fall of Sauron at Barad-dûr,Done,2021-10-18 21:44:00,2021-07-24 17:57:00,URGENT,LR-7543,286228,,Pippin Took,Gimli,2021-10-18 21:42:00,
